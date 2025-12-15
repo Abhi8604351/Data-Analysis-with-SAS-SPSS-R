@@ -14,7 +14,7 @@ df <- read.csv("before_after_marketing_campaign.csv",
                stringsAsFactors = FALSE)
 
 print("--- Dataset Loaded ---")
-print(colnames(df)) # Ye check karein taaki columns dikh jayein
+print(colnames(df)) 
 
 # ------------------------------------------------------------
 # 2. Frequency Tables
@@ -34,4 +34,5 @@ print(campaign_counts)
 
 # Correction: 'campaign_phase' -> 'campaign_type'
 campaign_df <- df %>% count(campaign_type)
+
 print(campaign_df)
