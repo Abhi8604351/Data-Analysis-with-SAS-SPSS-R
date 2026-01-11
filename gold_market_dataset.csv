@@ -1,0 +1,1201 @@
+Date,City,Gold_Purity,Gold_Price_per_10g,Jewellery_Shop,Demand_Level,Festival_Season,Import_Duty_%,USD_INR_Rate
+2019-01-01,Chennai,24K,31483,Malabar Gold,Low,No,12.5,82.36
+2019-01-02,Chennai,22K,31422,Malabar Gold,Medium,Yes,10.0,82.36
+2019-01-03,Hyderabad,22K,31389,Malabar Gold,Low,No,15.0,82.36
+2019-01-04,Mumbai,22K,31340,Tanishq,Medium,No,12.5,82.36
+2019-01-05,Kolkata,24K,31377,Malabar Gold,Low,No,12.5,82.36
+2019-01-06,Mumbai,22K,31384,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-01-07,Hyderabad,24K,31380,PC Jeweller,Low,No,12.5,82.36
+2019-01-08,Chennai,22K,31402,Malabar Gold,High,Yes,10.0,82.36
+2019-01-09,Kolkata,22K,31314,Local Shop,Low,No,15.0,82.36
+2019-01-10,Hyderabad,22K,31457,PC Jeweller,Medium,No,15.0,82.36
+2019-01-11,Kolkata,22K,31402,Tanishq,Low,No,12.5,82.36
+2019-01-12,Chennai,22K,31313,PC Jeweller,Medium,No,12.5,82.36
+2019-01-13,Mumbai,22K,31380,Malabar Gold,Medium,No,10.0,82.36
+2019-01-14,Kolkata,24K,31363,Tanishq,Medium,Yes,12.5,82.36
+2019-01-15,Mumbai,22K,31317,Malabar Gold,Medium,Yes,12.5,82.36
+2019-01-16,Delhi,22K,31247,PC Jeweller,Medium,No,15.0,82.36
+2019-01-17,Delhi,24K,31329,Tanishq,High,Yes,15.0,82.36
+2019-01-18,Delhi,24K,31269,PC Jeweller,Low,No,12.5,82.36
+2019-01-19,Mumbai,22K,31277,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-01-20,Delhi,22K,31343,Kalyan Jewellers,Low,No,10.0,82.36
+2019-01-21,Delhi,22K,31353,Tanishq,High,Yes,15.0,82.36
+2019-01-22,Hyderabad,24K,31249,Local Shop,High,Yes,12.5,82.36
+2019-01-23,Kolkata,24K,31366,Malabar Gold,Medium,No,10.0,82.36
+2019-01-24,Mumbai,22K,31361,Tanishq,High,No,10.0,82.36
+2019-01-25,Mumbai,22K,31412,PC Jeweller,Medium,No,12.5,82.36
+2019-01-26,Chennai,24K,31330,Tanishq,Low,No,12.5,82.36
+2019-01-27,Mumbai,22K,31263,Tanishq,Medium,No,10.0,82.36
+2019-01-28,Chennai,22K,31221,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-01-29,Mumbai,22K,31129,Tanishq,Medium,Yes,12.5,82.36
+2019-01-30,Delhi,22K,31254,PC Jeweller,Medium,No,10.0,82.36
+2019-01-31,Chennai,24K,31226,Local Shop,Medium,No,12.5,82.36
+2019-02-01,Mumbai,24K,31335,PC Jeweller,Low,No,15.0,82.36
+2019-02-02,Kolkata,24K,31436,Malabar Gold,Medium,Yes,12.5,82.36
+2019-02-03,Delhi,22K,31541,Local Shop,Medium,Yes,12.5,82.36
+2019-02-04,Hyderabad,22K,31559,PC Jeweller,Medium,No,10.0,82.36
+2019-02-05,Hyderabad,22K,31667,Kalyan Jewellers,High,No,12.5,82.36
+2019-02-06,Delhi,22K,31551,Local Shop,Low,No,15.0,82.36
+2019-02-07,Hyderabad,22K,31511,Malabar Gold,Low,No,10.0,82.36
+2019-02-08,Hyderabad,22K,31508,PC Jeweller,Medium,No,15.0,82.36
+2019-02-09,Kolkata,24K,31404,Kalyan Jewellers,Low,Yes,10.0,82.36
+2019-02-10,Hyderabad,24K,31284,Malabar Gold,Medium,Yes,10.0,82.36
+2019-02-11,Delhi,24K,31347,Tanishq,High,Yes,12.5,82.36
+2019-02-12,Hyderabad,24K,31444,Malabar Gold,High,No,15.0,82.36
+2019-02-13,Mumbai,22K,31513,PC Jeweller,Low,No,12.5,82.36
+2019-02-14,Chennai,24K,31509,Malabar Gold,High,Yes,15.0,82.36
+2019-02-15,Mumbai,24K,31406,PC Jeweller,Medium,No,12.5,82.36
+2019-02-16,Mumbai,22K,31550,Malabar Gold,Medium,No,10.0,82.36
+2019-02-17,Hyderabad,22K,31695,Tanishq,Low,No,12.5,82.36
+2019-02-18,Delhi,24K,31683,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-02-19,Mumbai,22K,31648,PC Jeweller,Low,No,10.0,82.36
+2019-02-20,Mumbai,22K,31718,Malabar Gold,High,No,10.0,82.36
+2019-02-21,Chennai,24K,31693,PC Jeweller,Low,No,15.0,82.36
+2019-02-22,Delhi,22K,31755,Tanishq,Low,No,12.5,82.36
+2019-02-23,Chennai,24K,31669,Local Shop,Medium,Yes,15.0,82.36
+2019-02-24,Delhi,24K,31744,Malabar Gold,High,Yes,10.0,82.36
+2019-02-25,Kolkata,22K,31859,Tanishq,Low,No,12.5,82.36
+2019-02-26,Kolkata,24K,31864,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-02-27,Delhi,24K,31781,Kalyan Jewellers,Low,No,10.0,82.36
+2019-02-28,Chennai,22K,31684,PC Jeweller,High,Yes,10.0,82.36
+2019-03-01,Kolkata,22K,31608,Kalyan Jewellers,High,No,10.0,82.36
+2019-03-02,Hyderabad,24K,31579,Malabar Gold,Low,No,10.0,82.36
+2019-03-03,Delhi,24K,31568,Local Shop,Medium,No,12.5,82.36
+2019-03-04,Mumbai,22K,31510,PC Jeweller,Low,Yes,12.5,82.36
+2019-03-05,Delhi,22K,31413,Tanishq,Low,No,15.0,82.36
+2019-03-06,Chennai,22K,31323,PC Jeweller,Low,No,15.0,82.36
+2019-03-07,Chennai,22K,31402,Malabar Gold,Medium,Yes,15.0,82.36
+2019-03-08,Hyderabad,22K,31545,Local Shop,Low,No,10.0,82.36
+2019-03-09,Chennai,24K,31456,Kalyan Jewellers,High,No,10.0,82.36
+2019-03-10,Chennai,24K,31435,Malabar Gold,High,No,15.0,82.36
+2019-03-11,Mumbai,22K,31335,Local Shop,Low,No,15.0,82.36
+2019-03-12,Mumbai,22K,31340,Local Shop,Medium,No,15.0,82.36
+2019-03-13,Mumbai,22K,31291,Malabar Gold,Medium,No,12.5,82.36
+2019-03-14,Delhi,24K,31220,PC Jeweller,Medium,No,15.0,82.36
+2019-03-15,Mumbai,22K,31364,Kalyan Jewellers,Medium,No,10.0,82.36
+2019-03-16,Delhi,24K,31425,Malabar Gold,High,No,12.5,82.36
+2019-03-17,Hyderabad,22K,31556,Kalyan Jewellers,High,No,15.0,82.36
+2019-03-18,Chennai,24K,31600,Malabar Gold,Medium,No,12.5,82.36
+2019-03-19,Delhi,22K,31663,Malabar Gold,Medium,No,12.5,82.36
+2019-03-20,Kolkata,22K,31563,PC Jeweller,Low,No,12.5,82.36
+2019-03-21,Hyderabad,22K,31569,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-03-22,Delhi,22K,31591,Malabar Gold,Low,No,10.0,82.36
+2019-03-23,Hyderabad,22K,31669,Malabar Gold,Medium,No,12.5,82.36
+2019-03-24,Chennai,24K,31776,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-03-25,Delhi,22K,31842,Kalyan Jewellers,Low,Yes,15.0,82.36
+2019-03-26,Chennai,24K,31917,Tanishq,Low,No,12.5,82.36
+2019-03-27,Chennai,22K,31939,Local Shop,Low,Yes,15.0,82.36
+2019-03-28,Delhi,22K,31923,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-03-29,Chennai,24K,31974,Local Shop,High,No,12.5,82.36
+2019-03-30,Hyderabad,22K,31946,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2019-03-31,Hyderabad,22K,31868,Local Shop,High,Yes,10.0,82.36
+2019-04-01,Kolkata,22K,31786,Local Shop,Low,No,15.0,82.36
+2019-04-02,Hyderabad,24K,31823,Kalyan Jewellers,High,No,15.0,82.36
+2019-04-03,Chennai,22K,31908,Tanishq,Low,Yes,10.0,82.36
+2019-04-04,Mumbai,22K,31901,Tanishq,Low,No,10.0,82.36
+2019-04-05,Hyderabad,24K,31984,Tanishq,High,No,15.0,82.36
+2019-04-06,Chennai,24K,32026,PC Jeweller,High,Yes,10.0,82.36
+2019-04-07,Chennai,24K,32165,Local Shop,High,No,12.5,82.36
+2019-04-08,Mumbai,22K,32128,Kalyan Jewellers,High,No,12.5,82.36
+2019-04-09,Mumbai,24K,32082,Malabar Gold,Medium,Yes,10.0,82.36
+2019-04-10,Mumbai,22K,32056,Kalyan Jewellers,High,Yes,12.5,82.36
+2019-04-11,Chennai,22K,31950,Malabar Gold,High,Yes,10.0,82.36
+2019-04-12,Chennai,22K,32025,Kalyan Jewellers,High,Yes,10.0,82.36
+2019-04-13,Hyderabad,22K,31969,Kalyan Jewellers,High,No,12.5,82.36
+2019-04-14,Delhi,24K,32093,Local Shop,High,No,10.0,82.36
+2019-04-15,Delhi,24K,31975,Kalyan Jewellers,Low,No,10.0,82.36
+2019-04-16,Hyderabad,24K,31895,PC Jeweller,High,Yes,15.0,82.36
+2019-04-17,Chennai,24K,31839,Local Shop,High,No,10.0,82.36
+2019-04-18,Mumbai,22K,31973,Tanishq,Medium,No,12.5,82.36
+2019-04-19,Mumbai,24K,32033,Tanishq,Medium,Yes,12.5,82.36
+2019-04-20,Chennai,24K,32179,Tanishq,High,No,12.5,82.36
+2019-04-21,Hyderabad,22K,32090,PC Jeweller,Low,Yes,15.0,82.36
+2019-04-22,Mumbai,22K,32005,Tanishq,Low,Yes,15.0,82.36
+2019-04-23,Kolkata,22K,31998,PC Jeweller,High,No,12.5,82.36
+2019-04-24,Mumbai,24K,32089,Malabar Gold,Low,No,12.5,82.36
+2019-04-25,Hyderabad,22K,32081,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-04-26,Delhi,22K,32027,Tanishq,High,No,12.5,82.36
+2019-04-27,Hyderabad,24K,32166,Local Shop,Medium,No,15.0,82.36
+2019-04-28,Kolkata,22K,32073,PC Jeweller,High,Yes,15.0,82.36
+2019-04-29,Kolkata,24K,32173,Kalyan Jewellers,Medium,No,10.0,82.36
+2019-04-30,Chennai,24K,32155,Tanishq,Medium,Yes,12.5,82.36
+2019-05-01,Kolkata,24K,32224,Kalyan Jewellers,Low,No,12.5,82.36
+2019-05-02,Delhi,22K,32286,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-05-03,Chennai,24K,32248,Local Shop,High,No,10.0,82.36
+2019-05-04,Kolkata,24K,32171,Tanishq,Low,No,12.5,82.36
+2019-05-05,Mumbai,22K,32062,Malabar Gold,Medium,Yes,12.5,82.36
+2019-05-06,Mumbai,22K,31979,Malabar Gold,Medium,No,10.0,82.36
+2019-05-07,Delhi,24K,31964,Tanishq,Medium,Yes,12.5,82.36
+2019-05-08,Hyderabad,24K,32007,Tanishq,Low,No,15.0,82.36
+2019-05-09,Kolkata,22K,32151,PC Jeweller,Low,No,15.0,82.36
+2019-05-10,Mumbai,24K,32076,Kalyan Jewellers,High,Yes,15.0,82.36
+2019-05-11,Mumbai,22K,32009,Local Shop,Low,No,10.0,82.36
+2019-05-12,Kolkata,22K,32028,Local Shop,Medium,Yes,12.5,82.36
+2019-05-13,Kolkata,22K,31919,Tanishq,Medium,No,15.0,82.36
+2019-05-14,Chennai,24K,32013,PC Jeweller,Low,No,10.0,82.36
+2019-05-15,Kolkata,22K,32109,Tanishq,Medium,No,15.0,82.36
+2019-05-16,Chennai,22K,32208,Local Shop,High,No,15.0,82.36
+2019-05-17,Delhi,24K,32172,PC Jeweller,Low,No,10.0,82.36
+2019-05-18,Chennai,24K,32249,Local Shop,Medium,No,15.0,82.36
+2019-05-19,Chennai,24K,32250,Kalyan Jewellers,Medium,No,10.0,82.36
+2019-05-20,Hyderabad,24K,32360,Malabar Gold,Medium,No,12.5,82.36
+2019-05-21,Delhi,24K,32443,Tanishq,Low,No,15.0,82.36
+2019-05-22,Mumbai,24K,32548,Tanishq,High,No,12.5,82.36
+2019-05-23,Hyderabad,22K,32510,Malabar Gold,High,Yes,15.0,82.36
+2019-05-24,Delhi,24K,32498,Tanishq,Medium,Yes,10.0,82.36
+2019-05-25,Hyderabad,22K,32581,Local Shop,Low,Yes,12.5,82.36
+2019-05-26,Kolkata,22K,32679,PC Jeweller,Low,Yes,15.0,82.36
+2019-05-27,Chennai,24K,32630,Tanishq,High,No,15.0,82.36
+2019-05-28,Chennai,22K,32547,Local Shop,Medium,Yes,12.5,82.36
+2019-05-29,Hyderabad,24K,32469,Malabar Gold,Low,Yes,10.0,82.36
+2019-05-30,Hyderabad,22K,32463,Local Shop,Medium,No,12.5,82.36
+2019-05-31,Hyderabad,22K,32499,Tanishq,High,No,10.0,82.36
+2019-06-01,Kolkata,24K,32559,Tanishq,Medium,No,12.5,82.36
+2019-06-02,Hyderabad,22K,32533,Kalyan Jewellers,Low,No,10.0,82.36
+2019-06-03,Kolkata,22K,32614,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-06-04,Kolkata,22K,32665,Malabar Gold,Low,No,10.0,82.36
+2019-06-05,Chennai,22K,32560,Local Shop,Low,Yes,10.0,82.36
+2019-06-06,Mumbai,22K,32570,PC Jeweller,Medium,No,15.0,82.36
+2019-06-07,Kolkata,22K,32524,Malabar Gold,Low,No,15.0,82.36
+2019-06-08,Hyderabad,22K,32503,Local Shop,Medium,Yes,15.0,82.36
+2019-06-09,Kolkata,22K,32470,Malabar Gold,Low,No,15.0,82.36
+2019-06-10,Kolkata,24K,32366,Malabar Gold,Medium,Yes,15.0,82.36
+2019-06-11,Hyderabad,24K,32478,Tanishq,Low,No,15.0,82.36
+2019-06-12,Mumbai,24K,32606,PC Jeweller,Medium,No,12.5,82.36
+2019-06-13,Mumbai,22K,32669,Kalyan Jewellers,High,Yes,15.0,82.36
+2019-06-14,Hyderabad,22K,32668,Malabar Gold,Medium,Yes,10.0,82.36
+2019-06-15,Delhi,24K,32806,Malabar Gold,Medium,Yes,12.5,82.36
+2019-06-16,Mumbai,22K,32785,Kalyan Jewellers,Low,No,15.0,82.36
+2019-06-17,Hyderabad,22K,32678,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-06-18,Kolkata,22K,32628,Local Shop,Medium,No,15.0,82.36
+2019-06-19,Kolkata,22K,32657,PC Jeweller,Medium,Yes,12.5,82.36
+2019-06-20,Hyderabad,22K,32553,PC Jeweller,High,No,12.5,82.36
+2019-06-21,Kolkata,24K,32614,Tanishq,High,No,15.0,82.36
+2019-06-22,Delhi,22K,32578,Local Shop,Medium,No,10.0,82.36
+2019-06-23,Chennai,24K,32598,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-06-24,Chennai,22K,32554,Local Shop,Medium,No,12.5,82.36
+2019-06-25,Chennai,24K,32517,Malabar Gold,Medium,No,12.5,82.36
+2019-06-26,Hyderabad,22K,32624,Malabar Gold,Low,No,10.0,82.36
+2019-06-27,Delhi,24K,32680,Malabar Gold,Low,No,12.5,82.36
+2019-06-28,Chennai,22K,32675,PC Jeweller,Medium,Yes,15.0,82.36
+2019-06-29,Hyderabad,22K,32763,Kalyan Jewellers,High,No,15.0,82.36
+2019-06-30,Chennai,24K,32676,PC Jeweller,Low,No,10.0,82.36
+2019-07-01,Delhi,22K,32757,Local Shop,High,Yes,10.0,82.36
+2019-07-02,Kolkata,24K,32704,Malabar Gold,High,No,10.0,82.36
+2019-07-03,Hyderabad,24K,32658,Tanishq,Low,No,15.0,82.36
+2019-07-04,Hyderabad,24K,32731,Kalyan Jewellers,High,No,12.5,82.36
+2019-07-05,Mumbai,22K,32615,Kalyan Jewellers,High,No,15.0,82.36
+2019-07-06,Mumbai,24K,32737,Malabar Gold,Low,Yes,15.0,82.36
+2019-07-07,Kolkata,22K,32627,PC Jeweller,Low,Yes,15.0,82.36
+2019-07-08,Hyderabad,22K,32535,Tanishq,Low,No,12.5,82.36
+2019-07-09,Delhi,24K,32546,Malabar Gold,High,No,12.5,82.36
+2019-07-10,Chennai,24K,32552,Tanishq,Medium,Yes,15.0,82.36
+2019-07-11,Mumbai,22K,32665,Tanishq,High,Yes,12.5,82.36
+2019-07-12,Mumbai,24K,32699,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-07-13,Hyderabad,22K,32649,PC Jeweller,High,No,10.0,82.36
+2019-07-14,Mumbai,24K,32650,Malabar Gold,Low,No,15.0,82.36
+2019-07-15,Mumbai,24K,32712,Tanishq,Medium,No,15.0,82.36
+2019-07-16,Delhi,24K,32752,Local Shop,Medium,No,12.5,82.36
+2019-07-17,Mumbai,24K,32816,Local Shop,Medium,Yes,15.0,82.36
+2019-07-18,Delhi,22K,32911,Malabar Gold,Medium,No,12.5,82.36
+2019-07-19,Hyderabad,22K,32893,Kalyan Jewellers,High,No,12.5,82.36
+2019-07-20,Mumbai,22K,32961,Tanishq,Medium,No,10.0,82.36
+2019-07-21,Chennai,24K,33073,PC Jeweller,Medium,Yes,10.0,82.36
+2019-07-22,Hyderabad,24K,33122,Malabar Gold,Medium,Yes,12.5,82.36
+2019-07-23,Chennai,22K,33082,PC Jeweller,Medium,No,12.5,82.36
+2019-07-24,Mumbai,22K,32965,Tanishq,Low,No,12.5,82.36
+2019-07-25,Chennai,24K,33003,Malabar Gold,High,No,15.0,82.36
+2019-07-26,Delhi,22K,32886,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-07-27,Mumbai,22K,32847,Tanishq,High,No,10.0,82.36
+2019-07-28,Mumbai,22K,32921,Malabar Gold,Low,No,15.0,82.36
+2019-07-29,Mumbai,24K,33051,PC Jeweller,Low,Yes,15.0,82.36
+2019-07-30,Mumbai,22K,33122,PC Jeweller,High,No,15.0,82.36
+2019-07-31,Kolkata,24K,33068,PC Jeweller,High,No,10.0,82.36
+2019-08-01,Mumbai,22K,33072,PC Jeweller,High,No,12.5,82.36
+2019-08-02,Hyderabad,24K,33154,Kalyan Jewellers,Low,Yes,15.0,82.36
+2019-08-03,Hyderabad,24K,33148,PC Jeweller,Low,No,15.0,82.36
+2019-08-04,Chennai,22K,33285,PC Jeweller,Low,Yes,10.0,82.36
+2019-08-05,Delhi,22K,33405,Kalyan Jewellers,High,Yes,12.5,82.36
+2019-08-06,Hyderabad,22K,33379,Kalyan Jewellers,Low,No,12.5,82.36
+2019-08-07,Mumbai,24K,33317,Local Shop,Medium,Yes,10.0,82.36
+2019-08-08,Delhi,24K,33371,Kalyan Jewellers,Low,Yes,10.0,82.36
+2019-08-09,Hyderabad,22K,33420,Malabar Gold,High,No,15.0,82.36
+2019-08-10,Hyderabad,22K,33418,PC Jeweller,Medium,No,12.5,82.36
+2019-08-11,Mumbai,22K,33488,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-08-12,Chennai,24K,33618,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-08-13,Mumbai,24K,33517,PC Jeweller,Low,No,12.5,82.36
+2019-08-14,Kolkata,22K,33610,Tanishq,High,Yes,12.5,82.36
+2019-08-15,Kolkata,22K,33606,PC Jeweller,High,Yes,12.5,82.36
+2019-08-16,Chennai,22K,33746,Tanishq,Low,Yes,15.0,82.36
+2019-08-17,Mumbai,24K,33628,Kalyan Jewellers,Low,Yes,10.0,82.36
+2019-08-18,Mumbai,24K,33540,PC Jeweller,Low,No,12.5,82.36
+2019-08-19,Mumbai,22K,33670,Tanishq,High,No,12.5,82.36
+2019-08-20,Mumbai,22K,33725,Tanishq,High,No,12.5,82.36
+2019-08-21,Delhi,22K,33613,Malabar Gold,Medium,No,12.5,82.36
+2019-08-22,Delhi,22K,33546,PC Jeweller,Low,Yes,15.0,82.36
+2019-08-23,Delhi,24K,33578,Tanishq,Low,Yes,10.0,82.36
+2019-08-24,Mumbai,24K,33652,Local Shop,Low,No,10.0,82.36
+2019-08-25,Hyderabad,22K,33626,Kalyan Jewellers,High,Yes,10.0,82.36
+2019-08-26,Mumbai,22K,33685,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-08-27,Mumbai,24K,33757,Local Shop,Medium,Yes,12.5,82.36
+2019-08-28,Mumbai,22K,33875,Local Shop,High,No,15.0,82.36
+2019-08-29,Chennai,22K,33796,Malabar Gold,Medium,Yes,10.0,82.36
+2019-08-30,Delhi,22K,33783,Malabar Gold,Medium,Yes,12.5,82.36
+2019-08-31,Hyderabad,24K,33739,Tanishq,Medium,No,12.5,82.36
+2019-09-01,Delhi,24K,33699,PC Jeweller,Medium,No,10.0,82.36
+2019-09-02,Delhi,22K,33752,PC Jeweller,High,No,10.0,82.36
+2019-09-03,Mumbai,22K,33730,Kalyan Jewellers,Low,No,15.0,82.36
+2019-09-04,Mumbai,22K,33848,Local Shop,Low,Yes,15.0,82.36
+2019-09-05,Chennai,24K,33827,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-09-06,Mumbai,22K,33840,Tanishq,High,No,15.0,82.36
+2019-09-07,Chennai,24K,33915,Tanishq,High,No,15.0,82.36
+2019-09-08,Kolkata,24K,34058,Local Shop,High,No,10.0,82.36
+2019-09-09,Mumbai,22K,34110,PC Jeweller,Medium,No,10.0,82.36
+2019-09-10,Hyderabad,22K,34071,Kalyan Jewellers,High,No,10.0,82.36
+2019-09-11,Delhi,24K,34002,Malabar Gold,High,No,15.0,82.36
+2019-09-12,Kolkata,22K,33940,Tanishq,Medium,No,10.0,82.36
+2019-09-13,Delhi,22K,33871,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2019-09-14,Delhi,22K,33851,Kalyan Jewellers,High,Yes,15.0,82.36
+2019-09-15,Delhi,22K,33908,Kalyan Jewellers,Low,No,15.0,82.36
+2019-09-16,Chennai,24K,33907,Local Shop,Medium,No,15.0,82.36
+2019-09-17,Kolkata,22K,33968,Malabar Gold,Low,No,12.5,82.36
+2019-09-18,Kolkata,24K,34088,Kalyan Jewellers,Low,No,15.0,82.36
+2019-09-19,Mumbai,22K,34019,Local Shop,Low,No,10.0,82.36
+2019-09-20,Kolkata,24K,34081,PC Jeweller,High,Yes,15.0,82.36
+2019-09-21,Hyderabad,24K,33981,PC Jeweller,Medium,No,10.0,82.36
+2019-09-22,Mumbai,22K,33868,Malabar Gold,Medium,No,12.5,82.36
+2019-09-23,Kolkata,24K,33812,Malabar Gold,Low,No,10.0,82.36
+2019-09-24,Kolkata,22K,33842,Malabar Gold,Medium,No,12.5,82.36
+2019-09-25,Kolkata,22K,33886,Tanishq,Medium,No,10.0,82.36
+2019-09-26,Kolkata,22K,33864,Malabar Gold,Medium,No,12.5,82.36
+2019-09-27,Chennai,22K,33896,Kalyan Jewellers,High,Yes,15.0,82.36
+2019-09-28,Kolkata,22K,33838,Malabar Gold,Low,Yes,15.0,82.36
+2019-09-29,Chennai,24K,33859,Local Shop,Medium,No,12.5,82.36
+2019-09-30,Hyderabad,22K,33898,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-10-01,Kolkata,22K,33789,Malabar Gold,High,No,12.5,82.36
+2019-10-02,Chennai,22K,33752,Kalyan Jewellers,Low,No,10.0,82.36
+2019-10-03,Hyderabad,22K,33791,PC Jeweller,High,No,10.0,82.36
+2019-10-04,Mumbai,22K,33735,PC Jeweller,Medium,Yes,15.0,82.36
+2019-10-05,Delhi,22K,33683,Malabar Gold,High,No,15.0,82.36
+2019-10-06,Kolkata,22K,33604,Kalyan Jewellers,Medium,No,10.0,82.36
+2019-10-07,Delhi,24K,33602,PC Jeweller,High,No,10.0,82.36
+2019-10-08,Mumbai,24K,33681,Local Shop,Low,No,10.0,82.36
+2019-10-09,Chennai,22K,33611,Kalyan Jewellers,Low,No,12.5,82.36
+2019-10-10,Hyderabad,22K,33604,Local Shop,Medium,No,15.0,82.36
+2019-10-11,Mumbai,24K,33615,Malabar Gold,Medium,No,15.0,82.36
+2019-10-12,Hyderabad,22K,33613,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-10-13,Kolkata,24K,33629,Malabar Gold,Medium,No,15.0,82.36
+2019-10-14,Kolkata,24K,33594,PC Jeweller,Medium,No,12.5,82.36
+2019-10-15,Hyderabad,22K,33534,Local Shop,Medium,Yes,15.0,82.36
+2019-10-16,Hyderabad,22K,33420,Kalyan Jewellers,Medium,No,10.0,82.36
+2019-10-17,Kolkata,22K,33340,Malabar Gold,Low,No,12.5,82.36
+2019-10-18,Kolkata,24K,33474,Malabar Gold,Medium,No,15.0,82.36
+2019-10-19,Chennai,22K,33513,Malabar Gold,Medium,No,10.0,82.36
+2019-10-20,Kolkata,24K,33659,Tanishq,Medium,No,10.0,82.36
+2019-10-21,Delhi,24K,33568,Tanishq,Medium,No,15.0,82.36
+2019-10-22,Mumbai,22K,33601,Local Shop,Medium,Yes,15.0,82.36
+2019-10-23,Kolkata,24K,33648,Malabar Gold,Medium,No,15.0,82.36
+2019-10-24,Hyderabad,24K,33651,Local Shop,Medium,Yes,10.0,82.36
+2019-10-25,Mumbai,22K,33592,Local Shop,High,No,10.0,82.36
+2019-10-26,Kolkata,24K,33514,Tanishq,High,Yes,10.0,82.36
+2019-10-27,Delhi,22K,33575,Kalyan Jewellers,High,No,15.0,82.36
+2019-10-28,Mumbai,24K,33586,PC Jeweller,Low,No,10.0,82.36
+2019-10-29,Chennai,24K,33686,Local Shop,Low,Yes,15.0,82.36
+2019-10-30,Mumbai,24K,33810,PC Jeweller,Low,No,15.0,82.36
+2019-10-31,Delhi,22K,33919,Local Shop,High,Yes,10.0,82.36
+2019-11-01,Chennai,22K,33908,PC Jeweller,Medium,No,12.5,82.36
+2019-11-02,Delhi,24K,34026,Kalyan Jewellers,Low,Yes,15.0,82.36
+2019-11-03,Kolkata,22K,34160,PC Jeweller,High,Yes,10.0,82.36
+2019-11-04,Delhi,22K,34205,Malabar Gold,Low,No,12.5,82.36
+2019-11-05,Chennai,24K,34266,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2019-11-06,Mumbai,22K,34379,PC Jeweller,High,No,10.0,82.36
+2019-11-07,Chennai,24K,34425,Tanishq,Medium,No,15.0,82.36
+2019-11-08,Hyderabad,24K,34516,Malabar Gold,Low,Yes,10.0,82.36
+2019-11-09,Chennai,22K,34657,Local Shop,Medium,Yes,15.0,82.36
+2019-11-10,Kolkata,24K,34702,Local Shop,Medium,No,12.5,82.36
+2019-11-11,Mumbai,22K,34602,Local Shop,Medium,No,12.5,82.36
+2019-11-12,Delhi,24K,34687,Local Shop,Low,Yes,15.0,82.36
+2019-11-13,Hyderabad,24K,34720,Local Shop,Medium,No,10.0,82.36
+2019-11-14,Mumbai,22K,34804,Kalyan Jewellers,Medium,No,15.0,82.36
+2019-11-15,Chennai,22K,34779,Tanishq,High,Yes,10.0,82.36
+2019-11-16,Hyderabad,24K,34871,PC Jeweller,High,Yes,10.0,82.36
+2019-11-17,Kolkata,22K,34845,PC Jeweller,Medium,No,15.0,82.36
+2019-11-18,Delhi,22K,34975,Malabar Gold,High,No,10.0,82.36
+2019-11-19,Chennai,22K,34979,Malabar Gold,Low,No,15.0,82.36
+2019-11-20,Kolkata,24K,35116,PC Jeweller,Low,Yes,15.0,82.36
+2019-11-21,Hyderabad,24K,35223,Local Shop,Low,No,15.0,82.36
+2019-11-22,Mumbai,24K,35224,Local Shop,High,Yes,10.0,82.36
+2019-11-23,Kolkata,22K,35335,Local Shop,High,Yes,15.0,82.36
+2019-11-24,Chennai,22K,35275,PC Jeweller,Low,No,10.0,82.36
+2019-11-25,Hyderabad,24K,35357,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-11-26,Kolkata,24K,35392,Local Shop,Low,No,15.0,82.36
+2019-11-27,Delhi,24K,35444,Malabar Gold,Low,No,12.5,82.36
+2019-11-28,Delhi,24K,35447,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2019-11-29,Mumbai,24K,35543,Local Shop,High,Yes,12.5,82.36
+2019-11-30,Hyderabad,22K,35472,Kalyan Jewellers,Low,Yes,15.0,82.36
+2019-12-01,Kolkata,22K,35474,Malabar Gold,High,No,10.0,82.36
+2019-12-02,Hyderabad,24K,35507,Malabar Gold,Medium,No,15.0,82.36
+2019-12-03,Chennai,22K,35538,Tanishq,Low,No,10.0,82.36
+2019-12-04,Mumbai,22K,35619,Tanishq,Medium,No,12.5,82.36
+2019-12-05,Hyderabad,24K,35742,Kalyan Jewellers,High,No,15.0,82.36
+2019-12-06,Hyderabad,22K,35746,Local Shop,Low,No,10.0,82.36
+2019-12-07,Delhi,22K,35744,Kalyan Jewellers,Medium,No,12.5,82.36
+2019-12-08,Chennai,22K,35749,Local Shop,Low,No,10.0,82.36
+2019-12-09,Hyderabad,22K,35696,Kalyan Jewellers,High,Yes,10.0,82.36
+2019-12-10,Mumbai,24K,35714,Malabar Gold,Low,Yes,12.5,82.36
+2019-12-11,Mumbai,22K,35777,Tanishq,High,No,15.0,82.36
+2019-12-12,Hyderabad,22K,35819,PC Jeweller,Medium,No,15.0,82.36
+2019-12-13,Chennai,22K,35956,PC Jeweller,Low,No,12.5,82.36
+2019-12-14,Mumbai,22K,35904,Malabar Gold,Medium,No,12.5,82.36
+2019-12-15,Mumbai,22K,35893,Tanishq,Medium,No,12.5,82.36
+2019-12-16,Mumbai,24K,35818,Local Shop,Low,No,10.0,82.36
+2019-12-17,Chennai,24K,35747,Malabar Gold,High,Yes,10.0,82.36
+2019-12-18,Hyderabad,22K,35641,Malabar Gold,High,Yes,12.5,82.36
+2019-12-19,Chennai,22K,35608,PC Jeweller,Medium,Yes,15.0,82.36
+2019-12-20,Delhi,22K,35519,PC Jeweller,Medium,Yes,10.0,82.36
+2019-12-21,Delhi,22K,35476,Malabar Gold,Medium,No,10.0,82.36
+2019-12-22,Hyderabad,22K,35541,PC Jeweller,Medium,No,10.0,82.36
+2019-12-23,Hyderabad,24K,35531,Malabar Gold,High,No,15.0,82.36
+2019-12-24,Hyderabad,22K,35519,Malabar Gold,Medium,No,15.0,82.36
+2019-12-25,Chennai,24K,35586,Tanishq,Low,No,12.5,82.36
+2019-12-26,Delhi,22K,35532,Local Shop,High,Yes,12.5,82.36
+2019-12-27,Hyderabad,24K,35432,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2019-12-28,Delhi,22K,35548,Tanishq,Low,Yes,12.5,82.36
+2019-12-29,Hyderabad,22K,35480,Tanishq,Low,No,10.0,82.36
+2019-12-30,Delhi,22K,35378,Tanishq,Medium,No,15.0,82.36
+2019-12-31,Mumbai,22K,35268,Local Shop,Medium,Yes,15.0,82.36
+2020-01-01,Hyderabad,22K,35220,Local Shop,High,No,12.5,82.36
+2020-01-02,Kolkata,24K,35328,PC Jeweller,Medium,Yes,10.0,82.36
+2020-01-03,Hyderabad,24K,35333,Local Shop,Medium,Yes,12.5,82.36
+2020-01-04,Chennai,24K,35453,Local Shop,High,No,10.0,82.36
+2020-01-05,Hyderabad,24K,35487,Local Shop,Low,No,15.0,82.36
+2020-01-06,Kolkata,24K,35395,Local Shop,High,No,12.5,82.36
+2020-01-07,Chennai,22K,35514,PC Jeweller,Low,No,15.0,82.36
+2020-01-08,Mumbai,24K,35574,Local Shop,Low,Yes,12.5,82.36
+2020-01-09,Chennai,22K,35679,Local Shop,High,No,15.0,82.36
+2020-01-10,Kolkata,22K,35618,PC Jeweller,Medium,Yes,15.0,82.36
+2020-01-11,Hyderabad,24K,35726,Malabar Gold,Low,No,15.0,82.36
+2020-01-12,Kolkata,22K,35711,Malabar Gold,Medium,No,12.5,82.36
+2020-01-13,Delhi,22K,35859,PC Jeweller,Medium,Yes,10.0,82.36
+2020-01-14,Kolkata,24K,35768,Tanishq,Medium,No,10.0,82.36
+2020-01-15,Kolkata,22K,35900,Tanishq,High,No,12.5,82.36
+2020-01-16,Chennai,22K,35811,Kalyan Jewellers,High,No,12.5,82.36
+2020-01-17,Chennai,22K,35753,PC Jeweller,Low,No,12.5,82.36
+2020-01-18,Hyderabad,22K,35717,Local Shop,Low,No,15.0,82.36
+2020-01-19,Mumbai,24K,35613,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2020-01-20,Chennai,24K,35507,Kalyan Jewellers,Low,Yes,12.5,82.36
+2020-01-21,Kolkata,24K,35434,Kalyan Jewellers,High,No,15.0,82.36
+2020-01-22,Delhi,22K,35338,Tanishq,Medium,Yes,15.0,82.36
+2020-01-23,Mumbai,22K,35249,Malabar Gold,Low,No,12.5,82.36
+2020-01-24,Chennai,24K,35157,Tanishq,Medium,No,10.0,82.36
+2020-01-25,Chennai,24K,35122,PC Jeweller,Medium,Yes,15.0,82.36
+2020-01-26,Hyderabad,22K,35222,Malabar Gold,Medium,Yes,15.0,82.36
+2020-01-27,Mumbai,22K,35194,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2020-01-28,Mumbai,22K,35163,Local Shop,High,No,12.5,82.36
+2020-01-29,Mumbai,22K,35230,Tanishq,Medium,Yes,12.5,82.36
+2020-01-30,Kolkata,24K,35216,Local Shop,Low,No,12.5,82.36
+2020-01-31,Kolkata,22K,35159,Tanishq,High,No,10.0,82.36
+2020-02-01,Chennai,24K,35104,Kalyan Jewellers,Low,No,12.5,82.36
+2020-02-02,Hyderabad,22K,35222,Tanishq,High,Yes,12.5,82.36
+2020-02-03,Chennai,22K,35196,Tanishq,Medium,Yes,10.0,82.36
+2020-02-04,Hyderabad,22K,35302,Malabar Gold,Medium,Yes,15.0,82.36
+2020-02-05,Chennai,24K,35291,Malabar Gold,Medium,No,10.0,82.36
+2020-02-06,Hyderabad,22K,35361,Local Shop,Medium,No,15.0,82.36
+2020-02-07,Kolkata,22K,35389,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-02-08,Kolkata,22K,35279,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-02-09,Hyderabad,24K,35184,Tanishq,High,Yes,15.0,82.36
+2020-02-10,Mumbai,24K,35228,Kalyan Jewellers,Low,No,12.5,82.36
+2020-02-11,Chennai,22K,35170,Local Shop,Low,No,12.5,82.36
+2020-02-12,Hyderabad,24K,35283,Malabar Gold,High,Yes,12.5,82.36
+2020-02-13,Kolkata,22K,35408,Local Shop,High,No,12.5,82.36
+2020-02-14,Hyderabad,22K,35418,Malabar Gold,High,No,12.5,82.36
+2020-02-15,Hyderabad,22K,35422,Kalyan Jewellers,Low,No,15.0,82.36
+2020-02-16,Chennai,22K,35349,Kalyan Jewellers,High,No,12.5,82.36
+2020-02-17,Delhi,22K,35314,Malabar Gold,Low,No,15.0,82.36
+2020-02-18,Hyderabad,22K,35240,PC Jeweller,Medium,No,12.5,82.36
+2020-02-19,Chennai,22K,35149,Tanishq,Low,No,10.0,82.36
+2020-02-20,Mumbai,22K,35053,PC Jeweller,High,Yes,10.0,82.36
+2020-02-21,Mumbai,24K,35021,Kalyan Jewellers,High,No,15.0,82.36
+2020-02-22,Kolkata,22K,35104,Local Shop,High,Yes,12.5,82.36
+2020-02-23,Chennai,22K,35042,Kalyan Jewellers,High,No,12.5,82.36
+2020-02-24,Kolkata,24K,35140,Local Shop,Low,Yes,15.0,82.36
+2020-02-25,Chennai,24K,35096,Local Shop,Medium,Yes,10.0,82.36
+2020-02-26,Chennai,24K,35009,Local Shop,High,No,15.0,82.36
+2020-02-27,Hyderabad,24K,34998,Malabar Gold,Low,Yes,15.0,82.36
+2020-02-28,Chennai,24K,34888,Tanishq,Low,No,15.0,82.36
+2020-02-29,Chennai,22K,34897,Tanishq,Medium,No,15.0,82.36
+2020-03-01,Delhi,24K,35011,Tanishq,High,No,15.0,82.36
+2020-03-02,Hyderabad,22K,35106,Tanishq,Medium,No,10.0,82.36
+2020-03-03,Chennai,22K,35185,PC Jeweller,High,No,15.0,82.36
+2020-03-04,Chennai,24K,35325,Local Shop,Medium,No,15.0,82.36
+2020-03-05,Chennai,24K,35209,Kalyan Jewellers,Low,No,12.5,82.36
+2020-03-06,Mumbai,22K,35322,Malabar Gold,High,No,12.5,82.36
+2020-03-07,Mumbai,22K,35327,Kalyan Jewellers,High,No,10.0,82.36
+2020-03-08,Chennai,22K,35401,PC Jeweller,Low,Yes,10.0,82.36
+2020-03-09,Delhi,24K,35346,Kalyan Jewellers,High,Yes,15.0,82.36
+2020-03-10,Kolkata,22K,35326,PC Jeweller,Medium,Yes,12.5,82.36
+2020-03-11,Chennai,22K,35208,Tanishq,Medium,No,15.0,82.36
+2020-03-12,Mumbai,22K,35110,Local Shop,Medium,No,12.5,82.36
+2020-03-13,Kolkata,22K,35082,Local Shop,Low,No,15.0,82.36
+2020-03-14,Delhi,22K,35229,Local Shop,High,No,15.0,82.36
+2020-03-15,Delhi,24K,35266,Local Shop,High,Yes,15.0,82.36
+2020-03-16,Delhi,22K,35355,Malabar Gold,High,Yes,10.0,82.36
+2020-03-17,Delhi,24K,35239,Kalyan Jewellers,Low,No,10.0,82.36
+2020-03-18,Kolkata,22K,35180,Malabar Gold,Medium,No,12.5,82.36
+2020-03-19,Mumbai,24K,35282,Malabar Gold,Medium,No,10.0,82.36
+2020-03-20,Hyderabad,22K,35323,Kalyan Jewellers,Low,No,10.0,82.36
+2020-03-21,Kolkata,24K,35412,Local Shop,Medium,No,10.0,82.36
+2020-03-22,Kolkata,22K,35349,PC Jeweller,Medium,Yes,12.5,82.36
+2020-03-23,Hyderabad,22K,35443,Tanishq,Medium,Yes,15.0,82.36
+2020-03-24,Chennai,24K,35386,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-03-25,Mumbai,24K,35515,Tanishq,High,Yes,10.0,82.36
+2020-03-26,Chennai,22K,35485,Malabar Gold,Low,No,15.0,82.36
+2020-03-27,Chennai,22K,35452,Local Shop,Medium,Yes,15.0,82.36
+2020-03-28,Delhi,22K,35503,Local Shop,High,No,12.5,82.36
+2020-03-29,Kolkata,22K,35565,PC Jeweller,Medium,No,10.0,82.36
+2020-03-30,Delhi,22K,35584,Local Shop,Medium,Yes,12.5,82.36
+2020-03-31,Mumbai,24K,35553,Malabar Gold,Medium,No,10.0,82.36
+2020-04-01,Chennai,22K,35592,PC Jeweller,High,No,15.0,82.36
+2020-04-02,Mumbai,22K,35564,Tanishq,Low,Yes,12.5,82.36
+2020-04-03,Delhi,22K,35615,Tanishq,Medium,No,10.0,82.36
+2020-04-04,Delhi,22K,35529,PC Jeweller,Low,No,10.0,82.36
+2020-04-05,Kolkata,24K,35423,Local Shop,Medium,Yes,10.0,82.36
+2020-04-06,Chennai,24K,35440,Local Shop,Low,Yes,15.0,82.36
+2020-04-07,Chennai,24K,35464,PC Jeweller,Low,No,15.0,82.36
+2020-04-08,Kolkata,22K,35549,Kalyan Jewellers,High,No,10.0,82.36
+2020-04-09,Hyderabad,22K,35536,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-04-10,Chennai,24K,35549,Tanishq,Medium,Yes,15.0,82.36
+2020-04-11,Mumbai,22K,35544,Tanishq,Low,No,10.0,82.36
+2020-04-12,Hyderabad,22K,35629,Tanishq,Low,Yes,15.0,82.36
+2020-04-13,Kolkata,22K,35607,Local Shop,Medium,No,10.0,82.36
+2020-04-14,Delhi,22K,35583,Local Shop,Medium,No,12.5,82.36
+2020-04-15,Kolkata,24K,35611,Malabar Gold,High,No,10.0,82.36
+2020-04-16,Mumbai,22K,35612,Malabar Gold,Medium,No,12.5,82.36
+2020-04-17,Hyderabad,22K,35511,PC Jeweller,High,No,12.5,82.36
+2020-04-18,Chennai,22K,35581,Malabar Gold,Medium,Yes,15.0,82.36
+2020-04-19,Kolkata,22K,35524,Local Shop,Low,Yes,12.5,82.36
+2020-04-20,Delhi,22K,35670,Malabar Gold,Medium,No,12.5,82.36
+2020-04-21,Mumbai,22K,35567,Tanishq,Medium,Yes,10.0,82.36
+2020-04-22,Kolkata,24K,35705,PC Jeweller,High,Yes,10.0,82.36
+2020-04-23,Mumbai,24K,35795,Local Shop,Medium,Yes,15.0,82.36
+2020-04-24,Hyderabad,24K,35770,Malabar Gold,Low,Yes,12.5,82.36
+2020-04-25,Hyderabad,24K,35913,Malabar Gold,Medium,Yes,12.5,82.36
+2020-04-26,Kolkata,24K,35797,Local Shop,High,No,12.5,82.36
+2020-04-27,Hyderabad,24K,35819,Tanishq,Low,Yes,15.0,82.36
+2020-04-28,Chennai,22K,35904,Local Shop,Medium,No,12.5,82.36
+2020-04-29,Hyderabad,22K,35873,Local Shop,Low,No,12.5,82.36
+2020-04-30,Delhi,24K,35929,PC Jeweller,Medium,No,12.5,82.36
+2020-05-01,Mumbai,24K,35895,Kalyan Jewellers,High,No,10.0,82.36
+2020-05-02,Mumbai,24K,35883,Local Shop,Medium,No,12.5,82.36
+2020-05-03,Mumbai,24K,36024,Local Shop,Medium,No,12.5,82.36
+2020-05-04,Chennai,24K,35984,Tanishq,Medium,No,10.0,82.36
+2020-05-05,Hyderabad,24K,36121,Local Shop,High,Yes,12.5,82.36
+2020-05-06,Delhi,22K,36082,PC Jeweller,Medium,Yes,12.5,82.36
+2020-05-07,Chennai,22K,36164,Tanishq,High,No,15.0,82.36
+2020-05-08,Hyderabad,24K,36287,Malabar Gold,Low,No,15.0,82.36
+2020-05-09,Kolkata,22K,36375,Kalyan Jewellers,Low,No,15.0,82.36
+2020-05-10,Kolkata,22K,36399,Local Shop,Low,No,15.0,82.36
+2020-05-11,Hyderabad,24K,36371,Local Shop,Medium,No,15.0,82.36
+2020-05-12,Chennai,22K,36261,Local Shop,Medium,Yes,12.5,82.36
+2020-05-13,Kolkata,22K,36400,Malabar Gold,High,Yes,12.5,82.36
+2020-05-14,Kolkata,22K,36520,Tanishq,Medium,Yes,15.0,82.36
+2020-05-15,Hyderabad,24K,36586,Local Shop,High,No,10.0,82.36
+2020-05-16,Delhi,24K,36639,Tanishq,Low,Yes,15.0,82.36
+2020-05-17,Hyderabad,22K,36717,PC Jeweller,Low,Yes,12.5,82.36
+2020-05-18,Mumbai,22K,36756,Local Shop,Low,Yes,12.5,82.36
+2020-05-19,Hyderabad,22K,36813,Tanishq,High,No,10.0,82.36
+2020-05-20,Kolkata,24K,36822,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2020-05-21,Hyderabad,22K,36787,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-05-22,Mumbai,22K,36776,PC Jeweller,Medium,Yes,15.0,82.36
+2020-05-23,Hyderabad,24K,36822,PC Jeweller,High,No,12.5,82.36
+2020-05-24,Kolkata,24K,36879,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2020-05-25,Chennai,22K,36935,Malabar Gold,Medium,Yes,10.0,82.36
+2020-05-26,Chennai,22K,36944,Tanishq,High,No,10.0,82.36
+2020-05-27,Chennai,22K,36974,PC Jeweller,Low,No,10.0,82.36
+2020-05-28,Mumbai,24K,36962,Malabar Gold,Low,No,10.0,82.36
+2020-05-29,Hyderabad,22K,36892,Malabar Gold,Medium,No,15.0,82.36
+2020-05-30,Delhi,22K,36831,PC Jeweller,High,No,10.0,82.36
+2020-05-31,Chennai,24K,36874,Malabar Gold,High,Yes,10.0,82.36
+2020-06-01,Mumbai,24K,36852,Kalyan Jewellers,High,No,12.5,82.36
+2020-06-02,Hyderabad,24K,36977,Local Shop,Medium,No,12.5,82.36
+2020-06-03,Chennai,24K,37087,Tanishq,Medium,Yes,15.0,82.36
+2020-06-04,Kolkata,24K,37140,Local Shop,High,No,10.0,82.36
+2020-06-05,Mumbai,22K,37245,Tanishq,Low,No,10.0,82.36
+2020-06-06,Delhi,22K,37371,Local Shop,Medium,No,12.5,82.36
+2020-06-07,Mumbai,22K,37519,PC Jeweller,Low,No,12.5,82.36
+2020-06-08,Kolkata,22K,37433,Malabar Gold,Medium,Yes,12.5,82.36
+2020-06-09,Kolkata,22K,37546,Local Shop,Low,Yes,10.0,82.36
+2020-06-10,Kolkata,22K,37583,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2020-06-11,Hyderabad,22K,37523,Tanishq,Low,Yes,15.0,82.36
+2020-06-12,Chennai,22K,37488,Malabar Gold,Medium,Yes,12.5,82.36
+2020-06-13,Hyderabad,24K,37607,Malabar Gold,Medium,Yes,15.0,82.36
+2020-06-14,Hyderabad,22K,37635,Local Shop,Medium,No,10.0,82.36
+2020-06-15,Chennai,22K,37564,Malabar Gold,Low,No,12.5,82.36
+2020-06-16,Chennai,22K,37550,Kalyan Jewellers,Low,No,12.5,82.36
+2020-06-17,Mumbai,22K,37545,Local Shop,Medium,Yes,15.0,82.36
+2020-06-18,Kolkata,22K,37431,Malabar Gold,Medium,Yes,12.5,82.36
+2020-06-19,Delhi,22K,37515,Local Shop,High,Yes,15.0,82.36
+2020-06-20,Delhi,24K,37532,Malabar Gold,Medium,No,15.0,82.36
+2020-06-21,Mumbai,24K,37450,PC Jeweller,Low,No,10.0,82.36
+2020-06-22,Chennai,24K,37404,Tanishq,High,Yes,15.0,82.36
+2020-06-23,Delhi,22K,37414,Malabar Gold,Medium,Yes,10.0,82.36
+2020-06-24,Mumbai,24K,37479,Malabar Gold,High,No,10.0,82.36
+2020-06-25,Delhi,22K,37445,Kalyan Jewellers,Low,Yes,12.5,82.36
+2020-06-26,Delhi,22K,37471,Kalyan Jewellers,Low,No,10.0,82.36
+2020-06-27,Chennai,22K,37500,Tanishq,Low,Yes,15.0,82.36
+2020-06-28,Hyderabad,22K,37550,Local Shop,High,No,10.0,82.36
+2020-06-29,Delhi,22K,37633,Kalyan Jewellers,High,No,12.5,82.36
+2020-06-30,Chennai,22K,37548,Tanishq,Low,Yes,10.0,82.36
+2020-07-01,Mumbai,24K,37457,Local Shop,High,No,10.0,82.36
+2020-07-02,Mumbai,22K,37383,Local Shop,Medium,Yes,15.0,82.36
+2020-07-03,Hyderabad,24K,37347,Tanishq,High,No,15.0,82.36
+2020-07-04,Hyderabad,22K,37433,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-07-05,Delhi,22K,37537,PC Jeweller,Medium,Yes,12.5,82.36
+2020-07-06,Mumbai,24K,37677,Local Shop,High,No,15.0,82.36
+2020-07-07,Chennai,22K,37662,PC Jeweller,Medium,No,12.5,82.36
+2020-07-08,Mumbai,22K,37548,Local Shop,High,Yes,12.5,82.36
+2020-07-09,Mumbai,22K,37474,Local Shop,High,No,10.0,82.36
+2020-07-10,Delhi,24K,37528,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-07-11,Mumbai,22K,37497,Local Shop,High,No,12.5,82.36
+2020-07-12,Chennai,24K,37536,Tanishq,High,No,10.0,82.36
+2020-07-13,Kolkata,22K,37662,Tanishq,High,No,10.0,82.36
+2020-07-14,Chennai,24K,37811,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-07-15,Chennai,22K,37908,Malabar Gold,Low,No,15.0,82.36
+2020-07-16,Delhi,22K,37987,Local Shop,High,No,15.0,82.36
+2020-07-17,Chennai,22K,37968,Tanishq,Medium,Yes,10.0,82.36
+2020-07-18,Delhi,22K,38039,PC Jeweller,Low,No,15.0,82.36
+2020-07-19,Kolkata,22K,38172,PC Jeweller,High,No,12.5,82.36
+2020-07-20,Chennai,22K,38296,Tanishq,Medium,No,10.0,82.36
+2020-07-21,Kolkata,24K,38288,Kalyan Jewellers,Medium,No,12.5,82.36
+2020-07-22,Mumbai,22K,38356,Local Shop,Low,Yes,15.0,82.36
+2020-07-23,Hyderabad,22K,38480,Local Shop,Low,Yes,15.0,82.36
+2020-07-24,Chennai,22K,38436,PC Jeweller,Low,No,15.0,82.36
+2020-07-25,Delhi,22K,38497,PC Jeweller,High,Yes,15.0,82.36
+2020-07-26,Delhi,24K,38540,Local Shop,Low,No,15.0,82.36
+2020-07-27,Delhi,24K,38675,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-07-28,Kolkata,24K,38714,Tanishq,High,Yes,15.0,82.36
+2020-07-29,Kolkata,22K,38713,PC Jeweller,High,No,12.5,82.36
+2020-07-30,Mumbai,24K,38836,Local Shop,High,Yes,10.0,82.36
+2020-07-31,Mumbai,22K,38904,Local Shop,High,No,10.0,82.36
+2020-08-01,Kolkata,24K,39044,Local Shop,Low,No,12.5,82.36
+2020-08-02,Mumbai,22K,38926,Kalyan Jewellers,Low,No,10.0,82.36
+2020-08-03,Delhi,22K,38882,Malabar Gold,Low,No,15.0,82.36
+2020-08-04,Mumbai,22K,38919,Tanishq,Low,No,12.5,82.36
+2020-08-05,Hyderabad,22K,38867,Tanishq,Low,No,12.5,82.36
+2020-08-06,Delhi,24K,38756,PC Jeweller,Medium,No,15.0,82.36
+2020-08-07,Hyderabad,24K,38805,Kalyan Jewellers,High,No,10.0,82.36
+2020-08-08,Mumbai,24K,38817,Tanishq,Medium,No,12.5,82.36
+2020-08-09,Mumbai,24K,38845,Tanishq,High,No,12.5,82.36
+2020-08-10,Delhi,24K,38961,Malabar Gold,Low,No,15.0,82.36
+2020-08-11,Delhi,22K,39110,Malabar Gold,Medium,No,12.5,82.36
+2020-08-12,Delhi,22K,39247,Malabar Gold,Low,No,15.0,82.36
+2020-08-13,Hyderabad,24K,39180,Kalyan Jewellers,High,Yes,10.0,82.36
+2020-08-14,Hyderabad,22K,39131,Local Shop,High,Yes,10.0,82.36
+2020-08-15,Hyderabad,24K,39079,Malabar Gold,Medium,No,15.0,82.36
+2020-08-16,Kolkata,22K,39217,Kalyan Jewellers,High,No,15.0,82.36
+2020-08-17,Kolkata,22K,39187,Kalyan Jewellers,High,No,12.5,82.36
+2020-08-18,Hyderabad,22K,39326,Malabar Gold,Low,No,12.5,82.36
+2020-08-19,Kolkata,22K,39338,Malabar Gold,High,No,15.0,82.36
+2020-08-20,Delhi,22K,39483,Malabar Gold,Medium,No,12.5,82.36
+2020-08-21,Kolkata,22K,39514,Kalyan Jewellers,High,No,10.0,82.36
+2020-08-22,Mumbai,22K,39564,PC Jeweller,High,Yes,15.0,82.36
+2020-08-23,Kolkata,24K,39575,Malabar Gold,High,No,12.5,82.36
+2020-08-24,Chennai,22K,39625,Malabar Gold,Medium,No,15.0,82.36
+2020-08-25,Chennai,22K,39603,PC Jeweller,High,No,12.5,82.36
+2020-08-26,Kolkata,24K,39558,Malabar Gold,Medium,No,10.0,82.36
+2020-08-27,Hyderabad,24K,39669,PC Jeweller,Medium,No,10.0,82.36
+2020-08-28,Hyderabad,22K,39578,PC Jeweller,Low,Yes,15.0,82.36
+2020-08-29,Hyderabad,24K,39485,Kalyan Jewellers,Medium,No,12.5,82.36
+2020-08-30,Chennai,24K,39443,Kalyan Jewellers,Low,No,15.0,82.36
+2020-08-31,Kolkata,22K,39327,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2020-09-01,Chennai,22K,39353,Local Shop,Low,No,15.0,82.36
+2020-09-02,Chennai,22K,39252,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2020-09-03,Mumbai,22K,39154,Local Shop,Medium,No,15.0,82.36
+2020-09-04,Mumbai,22K,39221,Local Shop,High,Yes,10.0,82.36
+2020-09-05,Hyderabad,24K,39185,Malabar Gold,Low,No,10.0,82.36
+2020-09-06,Mumbai,24K,39227,Malabar Gold,Low,Yes,15.0,82.36
+2020-09-07,Hyderabad,22K,39271,Kalyan Jewellers,High,No,10.0,82.36
+2020-09-08,Kolkata,22K,39185,Local Shop,Low,No,12.5,82.36
+2020-09-09,Mumbai,22K,39238,Malabar Gold,Low,No,15.0,82.36
+2020-09-10,Delhi,22K,39372,PC Jeweller,High,Yes,15.0,82.36
+2020-09-11,Delhi,24K,39516,PC Jeweller,High,No,12.5,82.36
+2020-09-12,Mumbai,22K,39549,Tanishq,High,Yes,15.0,82.36
+2020-09-13,Delhi,22K,39446,PC Jeweller,High,Yes,10.0,82.36
+2020-09-14,Hyderabad,22K,39378,Tanishq,Low,No,10.0,82.36
+2020-09-15,Delhi,22K,39521,PC Jeweller,Medium,Yes,15.0,82.36
+2020-09-16,Kolkata,24K,39603,Local Shop,Medium,Yes,10.0,82.36
+2020-09-17,Mumbai,24K,39587,Tanishq,High,No,12.5,82.36
+2020-09-18,Delhi,24K,39610,Tanishq,High,No,15.0,82.36
+2020-09-19,Mumbai,24K,39607,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-09-20,Chennai,24K,39550,Malabar Gold,High,No,12.5,82.36
+2020-09-21,Hyderabad,22K,39553,Kalyan Jewellers,High,Yes,15.0,82.36
+2020-09-22,Mumbai,22K,39584,Tanishq,Low,No,15.0,82.36
+2020-09-23,Kolkata,22K,39704,Kalyan Jewellers,Low,No,12.5,82.36
+2020-09-24,Delhi,22K,39658,Local Shop,Low,No,15.0,82.36
+2020-09-25,Hyderabad,22K,39609,Malabar Gold,Medium,Yes,15.0,82.36
+2020-09-26,Kolkata,22K,39614,Malabar Gold,Low,No,10.0,82.36
+2020-09-27,Delhi,24K,39753,Tanishq,Low,No,15.0,82.36
+2020-09-28,Mumbai,22K,39784,Kalyan Jewellers,Low,No,12.5,82.36
+2020-09-29,Delhi,22K,39706,PC Jeweller,Low,No,15.0,82.36
+2020-09-30,Mumbai,22K,39703,PC Jeweller,Medium,No,10.0,82.36
+2020-10-01,Delhi,22K,39648,Local Shop,Medium,No,12.5,82.36
+2020-10-02,Mumbai,22K,39788,Tanishq,Low,No,10.0,82.36
+2020-10-03,Mumbai,24K,39680,Malabar Gold,Low,No,10.0,82.36
+2020-10-04,Mumbai,24K,39614,Tanishq,Medium,Yes,12.5,82.36
+2020-10-05,Mumbai,24K,39526,Malabar Gold,Medium,Yes,10.0,82.36
+2020-10-06,Mumbai,24K,39445,Tanishq,Low,Yes,12.5,82.36
+2020-10-07,Kolkata,24K,39431,Local Shop,Medium,Yes,10.0,82.36
+2020-10-08,Hyderabad,22K,39556,Local Shop,Low,Yes,12.5,82.36
+2020-10-09,Delhi,24K,39509,PC Jeweller,High,No,10.0,82.36
+2020-10-10,Mumbai,24K,39601,Tanishq,High,No,15.0,82.36
+2020-10-11,Kolkata,24K,39638,Tanishq,High,No,10.0,82.36
+2020-10-12,Kolkata,22K,39609,Malabar Gold,High,No,15.0,82.36
+2020-10-13,Hyderabad,24K,39567,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-10-14,Hyderabad,24K,39468,Local Shop,Medium,Yes,15.0,82.36
+2020-10-15,Chennai,24K,39386,Local Shop,Medium,No,10.0,82.36
+2020-10-16,Kolkata,22K,39293,Local Shop,Medium,No,10.0,82.36
+2020-10-17,Delhi,22K,39428,Local Shop,Medium,No,10.0,82.36
+2020-10-18,Delhi,24K,39406,Tanishq,Low,No,15.0,82.36
+2020-10-19,Delhi,22K,39444,Kalyan Jewellers,Medium,No,12.5,82.36
+2020-10-20,Chennai,24K,39391,PC Jeweller,Medium,No,15.0,82.36
+2020-10-21,Kolkata,24K,39406,Tanishq,Medium,Yes,10.0,82.36
+2020-10-22,Chennai,24K,39482,Tanishq,Medium,No,10.0,82.36
+2020-10-23,Chennai,22K,39363,Tanishq,Medium,No,10.0,82.36
+2020-10-24,Hyderabad,22K,39308,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2020-10-25,Delhi,22K,39263,Kalyan Jewellers,Medium,No,10.0,82.36
+2020-10-26,Hyderabad,22K,39147,PC Jeweller,Low,No,15.0,82.36
+2020-10-27,Hyderabad,22K,39276,Kalyan Jewellers,High,No,12.5,82.36
+2020-10-28,Hyderabad,22K,39324,Malabar Gold,High,No,12.5,82.36
+2020-10-29,Chennai,22K,39362,Malabar Gold,Low,No,12.5,82.36
+2020-10-30,Kolkata,22K,39341,Local Shop,High,No,10.0,82.36
+2020-10-31,Mumbai,24K,39344,Local Shop,Low,Yes,10.0,82.36
+2020-11-01,Chennai,22K,39490,Tanishq,Low,No,15.0,82.36
+2020-11-02,Kolkata,22K,39379,Tanishq,Medium,No,10.0,82.36
+2020-11-03,Hyderabad,22K,39457,Tanishq,Medium,No,15.0,82.36
+2020-11-04,Chennai,24K,39605,Malabar Gold,High,No,10.0,82.36
+2020-11-05,Mumbai,24K,39492,Tanishq,Low,No,15.0,82.36
+2020-11-06,Chennai,24K,39420,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-11-07,Chennai,22K,39461,PC Jeweller,Medium,No,15.0,82.36
+2020-11-08,Chennai,22K,39579,Local Shop,High,Yes,12.5,82.36
+2020-11-09,Chennai,22K,39489,PC Jeweller,High,No,10.0,82.36
+2020-11-10,Kolkata,22K,39630,Local Shop,Medium,Yes,15.0,82.36
+2020-11-11,Delhi,24K,39654,Tanishq,High,No,12.5,82.36
+2020-11-12,Delhi,24K,39673,PC Jeweller,Medium,Yes,12.5,82.36
+2020-11-13,Chennai,22K,39702,Tanishq,Medium,No,12.5,82.36
+2020-11-14,Delhi,22K,39817,Malabar Gold,Low,No,15.0,82.36
+2020-11-15,Mumbai,24K,39932,Local Shop,Low,Yes,10.0,82.36
+2020-11-16,Chennai,22K,39889,Tanishq,Medium,No,12.5,82.36
+2020-11-17,Chennai,22K,39950,PC Jeweller,High,Yes,12.5,82.36
+2020-11-18,Mumbai,22K,39873,PC Jeweller,Low,No,15.0,82.36
+2020-11-19,Delhi,22K,39966,Malabar Gold,High,No,10.0,82.36
+2020-11-20,Kolkata,22K,40038,Local Shop,High,No,15.0,82.36
+2020-11-21,Mumbai,24K,39931,Local Shop,Low,No,10.0,82.36
+2020-11-22,Kolkata,24K,40010,Malabar Gold,High,No,15.0,82.36
+2020-11-23,Kolkata,24K,40029,Local Shop,Medium,No,10.0,82.36
+2020-11-24,Mumbai,22K,40073,Malabar Gold,Medium,No,12.5,82.36
+2020-11-25,Delhi,24K,40079,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2020-11-26,Delhi,22K,40073,Kalyan Jewellers,High,No,10.0,82.36
+2020-11-27,Chennai,22K,40108,Malabar Gold,Low,No,15.0,82.36
+2020-11-28,Mumbai,24K,40201,Local Shop,High,Yes,10.0,82.36
+2020-11-29,Hyderabad,22K,40112,Tanishq,Low,No,10.0,82.36
+2020-11-30,Delhi,24K,40136,Kalyan Jewellers,Medium,No,12.5,82.36
+2020-12-01,Delhi,24K,40195,Malabar Gold,High,No,15.0,82.36
+2020-12-02,Chennai,24K,40121,PC Jeweller,Medium,Yes,10.0,82.36
+2020-12-03,Mumbai,24K,40224,PC Jeweller,High,Yes,10.0,82.36
+2020-12-04,Chennai,24K,40124,Local Shop,Medium,No,15.0,82.36
+2020-12-05,Kolkata,24K,40174,Tanishq,Low,No,10.0,82.36
+2020-12-06,Delhi,24K,40144,Tanishq,Low,No,10.0,82.36
+2020-12-07,Chennai,22K,40155,PC Jeweller,Low,No,15.0,82.36
+2020-12-08,Chennai,22K,40081,Kalyan Jewellers,Medium,No,15.0,82.36
+2020-12-09,Mumbai,24K,40034,Malabar Gold,High,Yes,10.0,82.36
+2020-12-10,Mumbai,22K,40103,PC Jeweller,Low,No,12.5,82.36
+2020-12-11,Mumbai,24K,40120,Malabar Gold,Low,Yes,12.5,82.36
+2020-12-12,Delhi,22K,40213,Malabar Gold,Medium,No,10.0,82.36
+2020-12-13,Mumbai,22K,40098,Malabar Gold,Medium,No,12.5,82.36
+2020-12-14,Delhi,24K,40096,Local Shop,High,No,12.5,82.36
+2020-12-15,Mumbai,22K,40110,PC Jeweller,High,No,15.0,82.36
+2020-12-16,Delhi,22K,40255,Kalyan Jewellers,Low,No,10.0,82.36
+2020-12-17,Mumbai,22K,40354,Local Shop,High,Yes,15.0,82.36
+2020-12-18,Chennai,24K,40248,Tanishq,High,No,10.0,82.36
+2020-12-19,Delhi,22K,40256,Kalyan Jewellers,High,Yes,15.0,82.36
+2020-12-20,Mumbai,22K,40146,PC Jeweller,Medium,No,15.0,82.36
+2020-12-21,Chennai,22K,40222,Kalyan Jewellers,Low,Yes,10.0,82.36
+2020-12-22,Kolkata,22K,40268,PC Jeweller,Low,No,12.5,82.36
+2020-12-23,Chennai,24K,40319,PC Jeweller,High,No,10.0,82.36
+2020-12-24,Delhi,22K,40435,Tanishq,High,No,15.0,82.36
+2020-12-25,Kolkata,22K,40491,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2020-12-26,Kolkata,22K,40482,PC Jeweller,Low,Yes,10.0,82.36
+2020-12-27,Kolkata,24K,40411,Tanishq,Medium,Yes,12.5,82.36
+2020-12-28,Chennai,24K,40461,Malabar Gold,High,No,12.5,82.36
+2020-12-29,Hyderabad,24K,40487,Tanishq,Medium,No,15.0,82.36
+2020-12-30,Kolkata,24K,40535,PC Jeweller,Low,Yes,12.5,82.36
+2020-12-31,Kolkata,24K,40618,Tanishq,Medium,Yes,15.0,82.36
+2021-01-01,Chennai,24K,40501,Kalyan Jewellers,Low,Yes,15.0,82.36
+2021-01-02,Delhi,22K,40648,Malabar Gold,High,Yes,15.0,82.36
+2021-01-03,Mumbai,24K,40750,Malabar Gold,Low,No,15.0,82.36
+2021-01-04,Chennai,22K,40673,Local Shop,Low,Yes,15.0,82.36
+2021-01-05,Delhi,22K,40627,PC Jeweller,Medium,Yes,12.5,82.36
+2021-01-06,Mumbai,24K,40658,PC Jeweller,Medium,Yes,15.0,82.36
+2021-01-07,Hyderabad,22K,40716,Malabar Gold,Low,Yes,12.5,82.36
+2021-01-08,Kolkata,22K,40761,PC Jeweller,Low,No,12.5,82.36
+2021-01-09,Chennai,24K,40684,Local Shop,High,No,15.0,82.36
+2021-01-10,Mumbai,24K,40583,Kalyan Jewellers,Low,Yes,10.0,82.36
+2021-01-11,Chennai,22K,40618,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2021-01-12,Kolkata,22K,40511,PC Jeweller,High,No,10.0,82.36
+2021-01-13,Chennai,22K,40570,PC Jeweller,High,No,15.0,82.36
+2021-01-14,Mumbai,24K,40489,Local Shop,Medium,No,12.5,82.36
+2021-01-15,Kolkata,22K,40484,Local Shop,Medium,Yes,10.0,82.36
+2021-01-16,Delhi,22K,40454,PC Jeweller,High,No,15.0,82.36
+2021-01-17,Mumbai,24K,40460,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2021-01-18,Hyderabad,24K,40470,Local Shop,High,Yes,15.0,82.36
+2021-01-19,Chennai,24K,40583,Malabar Gold,High,No,15.0,82.36
+2021-01-20,Delhi,22K,40607,Local Shop,Low,No,12.5,82.36
+2021-01-21,Hyderabad,22K,40554,Local Shop,Medium,No,15.0,82.36
+2021-01-22,Hyderabad,24K,40681,Tanishq,Medium,No,12.5,82.36
+2021-01-23,Kolkata,24K,40654,PC Jeweller,High,No,15.0,82.36
+2021-01-24,Chennai,22K,40679,Kalyan Jewellers,High,No,15.0,82.36
+2021-01-25,Hyderabad,24K,40750,Tanishq,Low,No,12.5,82.36
+2021-01-26,Hyderabad,24K,40818,Tanishq,Medium,No,15.0,82.36
+2021-01-27,Kolkata,22K,40865,PC Jeweller,Medium,No,10.0,82.36
+2021-01-28,Hyderabad,24K,40809,Malabar Gold,Medium,No,10.0,82.36
+2021-01-29,Delhi,24K,40757,Kalyan Jewellers,High,No,15.0,82.36
+2021-01-30,Delhi,22K,40864,Local Shop,Low,No,12.5,82.36
+2021-01-31,Kolkata,24K,40782,PC Jeweller,Low,No,12.5,82.36
+2021-02-01,Hyderabad,22K,40754,Malabar Gold,High,Yes,10.0,82.36
+2021-02-02,Mumbai,24K,40718,Local Shop,Medium,No,12.5,82.36
+2021-02-03,Chennai,22K,40727,Tanishq,High,No,15.0,82.36
+2021-02-04,Kolkata,22K,40719,PC Jeweller,Medium,No,15.0,82.36
+2021-02-05,Delhi,22K,40669,PC Jeweller,Medium,Yes,15.0,82.36
+2021-02-06,Kolkata,22K,40684,Kalyan Jewellers,High,No,10.0,82.36
+2021-02-07,Chennai,24K,40659,Malabar Gold,Medium,No,12.5,82.36
+2021-02-08,Delhi,24K,40670,Malabar Gold,Medium,No,12.5,82.36
+2021-02-09,Hyderabad,22K,40749,Local Shop,High,No,10.0,82.36
+2021-02-10,Chennai,24K,40751,Kalyan Jewellers,High,Yes,10.0,82.36
+2021-02-11,Mumbai,24K,40774,PC Jeweller,Low,No,12.5,82.36
+2021-02-12,Mumbai,22K,40664,Local Shop,Medium,No,15.0,82.36
+2021-02-13,Delhi,24K,40736,PC Jeweller,Medium,No,10.0,82.36
+2021-02-14,Chennai,24K,40670,Tanishq,Medium,No,12.5,82.36
+2021-02-15,Hyderabad,24K,40642,PC Jeweller,Medium,No,15.0,82.36
+2021-02-16,Chennai,22K,40762,Local Shop,Low,No,10.0,82.36
+2021-02-17,Delhi,22K,40780,Kalyan Jewellers,High,No,15.0,82.36
+2021-02-18,Hyderabad,22K,40749,Malabar Gold,Medium,No,10.0,82.36
+2021-02-19,Hyderabad,24K,40811,Malabar Gold,High,No,12.5,82.36
+2021-02-20,Mumbai,22K,40694,PC Jeweller,Low,Yes,15.0,82.36
+2021-02-21,Kolkata,22K,40669,PC Jeweller,Medium,Yes,15.0,82.36
+2021-02-22,Hyderabad,22K,40665,PC Jeweller,Medium,Yes,15.0,82.36
+2021-02-23,Hyderabad,24K,40592,Tanishq,High,No,12.5,82.36
+2021-02-24,Kolkata,22K,40583,PC Jeweller,Low,Yes,12.5,82.36
+2021-02-25,Mumbai,22K,40613,Kalyan Jewellers,High,No,10.0,82.36
+2021-02-26,Hyderabad,22K,40736,Local Shop,Medium,No,12.5,82.36
+2021-02-27,Hyderabad,22K,40648,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2021-02-28,Hyderabad,22K,40761,PC Jeweller,Low,Yes,10.0,82.36
+2021-03-01,Hyderabad,24K,40783,PC Jeweller,Medium,No,10.0,82.36
+2021-03-02,Mumbai,22K,40928,Tanishq,Low,No,15.0,82.36
+2021-03-03,Chennai,22K,41067,Local Shop,Medium,No,15.0,82.36
+2021-03-04,Chennai,24K,40973,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2021-03-05,Mumbai,22K,41031,Malabar Gold,Low,No,12.5,82.36
+2021-03-06,Chennai,24K,41019,Kalyan Jewellers,Low,Yes,15.0,82.36
+2021-03-07,Chennai,22K,40963,PC Jeweller,Medium,Yes,10.0,82.36
+2021-03-08,Chennai,22K,40919,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-03-09,Kolkata,22K,40921,Kalyan Jewellers,Low,No,10.0,82.36
+2021-03-10,Mumbai,22K,40824,Kalyan Jewellers,Medium,No,12.5,82.36
+2021-03-11,Hyderabad,24K,40824,Tanishq,High,No,10.0,82.36
+2021-03-12,Mumbai,22K,40848,Tanishq,High,Yes,15.0,82.36
+2021-03-13,Chennai,22K,40811,Tanishq,Medium,Yes,12.5,82.36
+2021-03-14,Chennai,22K,40957,Local Shop,Medium,Yes,12.5,82.36
+2021-03-15,Hyderabad,22K,40999,Local Shop,Low,No,15.0,82.36
+2021-03-16,Hyderabad,22K,40958,Malabar Gold,High,No,12.5,82.36
+2021-03-17,Hyderabad,22K,41095,PC Jeweller,Medium,No,15.0,82.36
+2021-03-18,Kolkata,24K,41015,Tanishq,Medium,No,10.0,82.36
+2021-03-19,Kolkata,24K,41146,Malabar Gold,Medium,No,12.5,82.36
+2021-03-20,Hyderabad,24K,41199,Tanishq,Low,No,12.5,82.36
+2021-03-21,Kolkata,24K,41278,Local Shop,Low,No,12.5,82.36
+2021-03-22,Kolkata,22K,41314,Tanishq,Medium,No,10.0,82.36
+2021-03-23,Hyderabad,24K,41253,Kalyan Jewellers,Medium,No,15.0,82.36
+2021-03-24,Hyderabad,24K,41309,Malabar Gold,High,No,10.0,82.36
+2021-03-25,Delhi,22K,41367,Kalyan Jewellers,High,No,12.5,82.36
+2021-03-26,Delhi,22K,41472,Malabar Gold,Medium,No,12.5,82.36
+2021-03-27,Chennai,24K,41512,Malabar Gold,Medium,Yes,15.0,82.36
+2021-03-28,Delhi,22K,41633,Tanishq,Low,No,15.0,82.36
+2021-03-29,Mumbai,22K,41523,PC Jeweller,Medium,No,15.0,82.36
+2021-03-30,Kolkata,24K,41538,Local Shop,High,No,12.5,82.36
+2021-03-31,Mumbai,24K,41497,Tanishq,Medium,No,12.5,82.36
+2021-04-01,Mumbai,24K,41523,Tanishq,Medium,No,15.0,82.36
+2021-04-02,Mumbai,22K,41524,Tanishq,High,No,10.0,82.36
+2021-04-03,Mumbai,22K,41669,Malabar Gold,High,No,10.0,82.36
+2021-04-04,Hyderabad,24K,41598,Local Shop,High,No,12.5,82.36
+2021-04-05,Chennai,24K,41691,Malabar Gold,High,No,12.5,82.36
+2021-04-06,Hyderabad,22K,41641,PC Jeweller,Medium,Yes,10.0,82.36
+2021-04-07,Delhi,24K,41563,Kalyan Jewellers,Low,No,15.0,82.36
+2021-04-08,Delhi,22K,41689,Local Shop,High,Yes,10.0,82.36
+2021-04-09,Chennai,22K,41798,Tanishq,Medium,No,10.0,82.36
+2021-04-10,Delhi,22K,41883,Malabar Gold,Low,Yes,10.0,82.36
+2021-04-11,Kolkata,22K,41993,PC Jeweller,Medium,No,12.5,82.36
+2021-04-12,Mumbai,24K,41972,PC Jeweller,High,No,10.0,82.36
+2021-04-13,Delhi,22K,41860,Kalyan Jewellers,Low,No,15.0,82.36
+2021-04-14,Kolkata,22K,41881,Local Shop,High,Yes,15.0,82.36
+2021-04-15,Delhi,22K,41930,Tanishq,Low,No,12.5,82.36
+2021-04-16,Kolkata,24K,41835,Tanishq,High,No,15.0,82.36
+2021-04-17,Delhi,24K,41758,Malabar Gold,Low,No,12.5,82.36
+2021-04-18,Mumbai,24K,41655,Tanishq,Low,No,12.5,82.36
+2021-04-19,Chennai,24K,41595,Malabar Gold,Low,Yes,15.0,82.36
+2021-04-20,Hyderabad,24K,41693,Local Shop,Low,No,10.0,82.36
+2021-04-21,Chennai,22K,41781,Local Shop,Medium,Yes,10.0,82.36
+2021-04-22,Kolkata,22K,41927,PC Jeweller,Medium,Yes,12.5,82.36
+2021-04-23,Mumbai,22K,41918,Tanishq,Medium,No,15.0,82.36
+2021-04-24,Hyderabad,22K,42042,Tanishq,Medium,No,15.0,82.36
+2021-04-25,Hyderabad,24K,42032,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-04-26,Delhi,24K,42113,Tanishq,Medium,Yes,15.0,82.36
+2021-04-27,Chennai,24K,42192,PC Jeweller,Low,No,15.0,82.36
+2021-04-28,Chennai,24K,42261,PC Jeweller,Low,No,10.0,82.36
+2021-04-29,Chennai,22K,42381,Malabar Gold,Low,No,15.0,82.36
+2021-04-30,Delhi,24K,42287,Tanishq,Low,No,15.0,82.36
+2021-05-01,Kolkata,22K,42327,PC Jeweller,Low,Yes,12.5,82.36
+2021-05-02,Chennai,22K,42237,Tanishq,Medium,No,10.0,82.36
+2021-05-03,Kolkata,22K,42136,Tanishq,High,No,15.0,82.36
+2021-05-04,Hyderabad,22K,42134,Local Shop,High,No,15.0,82.36
+2021-05-05,Delhi,22K,42255,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2021-05-06,Delhi,24K,42170,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-05-07,Delhi,22K,42130,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2021-05-08,Chennai,22K,42095,Tanishq,Medium,Yes,12.5,82.36
+2021-05-09,Hyderabad,24K,42003,Malabar Gold,Medium,No,15.0,82.36
+2021-05-10,Chennai,22K,41961,PC Jeweller,Low,No,12.5,82.36
+2021-05-11,Delhi,24K,42087,Local Shop,Low,No,15.0,82.36
+2021-05-12,Delhi,22K,42146,Local Shop,Medium,Yes,12.5,82.36
+2021-05-13,Hyderabad,22K,42181,Tanishq,Low,No,10.0,82.36
+2021-05-14,Chennai,24K,42260,Local Shop,Low,No,12.5,82.36
+2021-05-15,Kolkata,22K,42379,Local Shop,Medium,No,15.0,82.36
+2021-05-16,Delhi,24K,42460,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2021-05-17,Chennai,22K,42351,Kalyan Jewellers,High,No,15.0,82.36
+2021-05-18,Mumbai,22K,42262,Kalyan Jewellers,Low,No,12.5,82.36
+2021-05-19,Chennai,24K,42334,Kalyan Jewellers,Medium,No,12.5,82.36
+2021-05-20,Hyderabad,22K,42356,Tanishq,High,No,10.0,82.36
+2021-05-21,Chennai,24K,42304,Kalyan Jewellers,High,No,12.5,82.36
+2021-05-22,Hyderabad,24K,42394,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2021-05-23,Hyderabad,24K,42444,Local Shop,High,Yes,15.0,82.36
+2021-05-24,Chennai,24K,42368,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2021-05-25,Kolkata,22K,42495,PC Jeweller,Medium,No,12.5,82.36
+2021-05-26,Mumbai,22K,42375,Local Shop,Low,No,12.5,82.36
+2021-05-27,Chennai,22K,42450,Malabar Gold,Medium,No,10.0,82.36
+2021-05-28,Kolkata,24K,42435,PC Jeweller,High,No,12.5,82.36
+2021-05-29,Kolkata,22K,42462,Malabar Gold,High,Yes,12.5,82.36
+2021-05-30,Chennai,24K,42386,Tanishq,Medium,No,15.0,82.36
+2021-05-31,Delhi,22K,42396,Malabar Gold,High,Yes,10.0,82.36
+2021-06-01,Delhi,22K,42489,Malabar Gold,Low,Yes,12.5,82.36
+2021-06-02,Hyderabad,22K,42544,Local Shop,Medium,No,15.0,82.36
+2021-06-03,Hyderabad,22K,42680,Local Shop,Low,Yes,10.0,82.36
+2021-06-04,Delhi,22K,42579,PC Jeweller,High,No,10.0,82.36
+2021-06-05,Mumbai,24K,42528,Tanishq,Low,Yes,12.5,82.36
+2021-06-06,Delhi,22K,42441,Kalyan Jewellers,High,No,12.5,82.36
+2021-06-07,Chennai,24K,42536,Tanishq,Medium,Yes,15.0,82.36
+2021-06-08,Kolkata,22K,42629,Local Shop,High,Yes,15.0,82.36
+2021-06-09,Chennai,24K,42745,Kalyan Jewellers,High,No,10.0,82.36
+2021-06-10,Chennai,22K,42883,Tanishq,High,No,10.0,82.36
+2021-06-11,Mumbai,22K,42905,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2021-06-12,Mumbai,24K,43027,Kalyan Jewellers,Low,No,12.5,82.36
+2021-06-13,Chennai,22K,42982,Malabar Gold,High,No,12.5,82.36
+2021-06-14,Kolkata,24K,43087,Tanishq,Medium,No,12.5,82.36
+2021-06-15,Kolkata,24K,43138,Tanishq,Low,No,15.0,82.36
+2021-06-16,Hyderabad,22K,43164,Malabar Gold,Medium,No,10.0,82.36
+2021-06-17,Mumbai,22K,43146,Malabar Gold,Low,Yes,10.0,82.36
+2021-06-18,Kolkata,22K,43030,PC Jeweller,Medium,No,10.0,82.36
+2021-06-19,Mumbai,22K,42915,PC Jeweller,Medium,No,12.5,82.36
+2021-06-20,Kolkata,22K,43055,Kalyan Jewellers,Low,No,15.0,82.36
+2021-06-21,Mumbai,22K,42965,Local Shop,High,No,10.0,82.36
+2021-06-22,Mumbai,22K,42951,Kalyan Jewellers,High,No,10.0,82.36
+2021-06-23,Hyderabad,24K,43052,PC Jeweller,Medium,No,12.5,82.36
+2021-06-24,Delhi,24K,43070,Tanishq,Medium,No,15.0,82.36
+2021-06-25,Hyderabad,22K,43196,Tanishq,Medium,Yes,15.0,82.36
+2021-06-26,Hyderabad,24K,43159,Kalyan Jewellers,Low,No,15.0,82.36
+2021-06-27,Mumbai,24K,43230,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-06-28,Delhi,22K,43328,Tanishq,Medium,No,15.0,82.36
+2021-06-29,Delhi,24K,43240,PC Jeweller,High,Yes,12.5,82.36
+2021-06-30,Kolkata,22K,43364,Malabar Gold,Medium,Yes,12.5,82.36
+2021-07-01,Chennai,24K,43355,Tanishq,Low,Yes,12.5,82.36
+2021-07-02,Delhi,24K,43391,Local Shop,Low,No,10.0,82.36
+2021-07-03,Delhi,22K,43536,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-07-04,Mumbai,22K,43487,Kalyan Jewellers,Low,No,15.0,82.36
+2021-07-05,Kolkata,22K,43458,Malabar Gold,Low,No,15.0,82.36
+2021-07-06,Chennai,24K,43582,Malabar Gold,High,No,10.0,82.36
+2021-07-07,Delhi,22K,43702,Local Shop,Low,No,12.5,82.36
+2021-07-08,Hyderabad,22K,43685,Malabar Gold,Low,Yes,10.0,82.36
+2021-07-09,Delhi,24K,43633,Tanishq,Medium,Yes,15.0,82.36
+2021-07-10,Mumbai,24K,43641,Malabar Gold,Medium,Yes,15.0,82.36
+2021-07-11,Chennai,22K,43740,Local Shop,Medium,Yes,12.5,82.36
+2021-07-12,Hyderabad,22K,43721,Tanishq,Medium,No,10.0,82.36
+2021-07-13,Delhi,24K,43744,Tanishq,Medium,No,10.0,82.36
+2021-07-14,Mumbai,24K,43821,Local Shop,Low,No,10.0,82.36
+2021-07-15,Hyderabad,24K,43832,Local Shop,High,No,15.0,82.36
+2021-07-16,Mumbai,22K,43756,Tanishq,Medium,No,10.0,82.36
+2021-07-17,Kolkata,22K,43814,Kalyan Jewellers,Medium,Yes,12.5,82.36
+2021-07-18,Mumbai,22K,43799,Kalyan Jewellers,High,No,12.5,82.36
+2021-07-19,Delhi,22K,43804,Local Shop,Medium,No,15.0,82.36
+2021-07-20,Kolkata,24K,43945,Malabar Gold,Low,No,15.0,82.36
+2021-07-21,Mumbai,22K,43899,Kalyan Jewellers,High,No,12.5,82.36
+2021-07-22,Delhi,22K,43810,Malabar Gold,Low,No,10.0,82.36
+2021-07-23,Chennai,22K,43732,Local Shop,Low,No,15.0,82.36
+2021-07-24,Chennai,22K,43789,Local Shop,Medium,Yes,12.5,82.36
+2021-07-25,Chennai,24K,43745,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-07-26,Delhi,22K,43677,Local Shop,Low,Yes,15.0,82.36
+2021-07-27,Hyderabad,22K,43805,Kalyan Jewellers,Medium,No,12.5,82.36
+2021-07-28,Hyderabad,24K,43868,Tanishq,Medium,Yes,12.5,82.36
+2021-07-29,Chennai,24K,43823,PC Jeweller,High,No,10.0,82.36
+2021-07-30,Kolkata,24K,43900,PC Jeweller,Low,Yes,10.0,82.36
+2021-07-31,Delhi,24K,43838,Local Shop,High,Yes,10.0,82.36
+2021-08-01,Chennai,22K,43940,PC Jeweller,High,Yes,12.5,82.36
+2021-08-02,Chennai,24K,43859,Kalyan Jewellers,High,Yes,15.0,82.36
+2021-08-03,Chennai,24K,43781,Malabar Gold,High,No,15.0,82.36
+2021-08-04,Chennai,22K,43847,Malabar Gold,Medium,No,12.5,82.36
+2021-08-05,Chennai,24K,43893,Tanishq,Medium,No,12.5,82.36
+2021-08-06,Mumbai,22K,43919,PC Jeweller,High,No,10.0,82.36
+2021-08-07,Mumbai,24K,44003,Local Shop,Low,No,10.0,82.36
+2021-08-08,Mumbai,24K,44140,Local Shop,Medium,No,10.0,82.36
+2021-08-09,Mumbai,22K,44163,Local Shop,High,No,10.0,82.36
+2021-08-10,Chennai,22K,44130,Local Shop,Low,Yes,15.0,82.36
+2021-08-11,Hyderabad,22K,44167,Malabar Gold,Low,Yes,12.5,82.36
+2021-08-12,Hyderabad,22K,44143,Malabar Gold,Low,Yes,12.5,82.36
+2021-08-13,Hyderabad,24K,44184,PC Jeweller,High,No,12.5,82.36
+2021-08-14,Chennai,22K,44143,Malabar Gold,Low,No,12.5,82.36
+2021-08-15,Mumbai,22K,44047,Malabar Gold,Medium,Yes,15.0,82.36
+2021-08-16,Mumbai,22K,44103,Kalyan Jewellers,Medium,No,15.0,82.36
+2021-08-17,Kolkata,24K,44163,PC Jeweller,High,No,12.5,82.36
+2021-08-18,Chennai,22K,44310,Kalyan Jewellers,Low,Yes,15.0,82.36
+2021-08-19,Chennai,22K,44401,Kalyan Jewellers,High,Yes,10.0,82.36
+2021-08-20,Hyderabad,24K,44407,Kalyan Jewellers,Low,No,15.0,82.36
+2021-08-21,Kolkata,22K,44423,Kalyan Jewellers,Low,No,12.5,82.36
+2021-08-22,Chennai,24K,44464,Tanishq,Low,No,12.5,82.36
+2021-08-23,Chennai,22K,44548,Kalyan Jewellers,High,No,15.0,82.36
+2021-08-24,Hyderabad,22K,44540,PC Jeweller,Low,No,12.5,82.36
+2021-08-25,Delhi,22K,44636,Local Shop,High,No,10.0,82.36
+2021-08-26,Chennai,22K,44751,Local Shop,Low,No,15.0,82.36
+2021-08-27,Hyderabad,22K,44669,Local Shop,Low,No,10.0,82.36
+2021-08-28,Delhi,24K,44771,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-08-29,Mumbai,24K,44690,Malabar Gold,Low,No,10.0,82.36
+2021-08-30,Chennai,24K,44637,Malabar Gold,Medium,Yes,10.0,82.36
+2021-08-31,Delhi,22K,44564,Tanishq,Medium,Yes,10.0,82.36
+2021-09-01,Hyderabad,24K,44618,Kalyan Jewellers,Low,No,15.0,82.36
+2021-09-02,Hyderabad,24K,44708,Kalyan Jewellers,Medium,No,15.0,82.36
+2021-09-03,Delhi,24K,44786,Local Shop,High,No,10.0,82.36
+2021-09-04,Kolkata,22K,44760,Tanishq,Medium,Yes,12.5,82.36
+2021-09-05,Mumbai,22K,44838,Local Shop,Medium,Yes,12.5,82.36
+2021-09-06,Mumbai,22K,44833,Tanishq,High,No,12.5,82.36
+2021-09-07,Hyderabad,24K,44737,PC Jeweller,Low,No,12.5,82.36
+2021-09-08,Chennai,24K,44861,Tanishq,Medium,No,15.0,82.36
+2021-09-09,Mumbai,22K,44914,Tanishq,Medium,No,12.5,82.36
+2021-09-10,Mumbai,22K,44887,Kalyan Jewellers,Medium,No,15.0,82.36
+2021-09-11,Kolkata,22K,44947,Tanishq,Low,Yes,15.0,82.36
+2021-09-12,Chennai,22K,44929,PC Jeweller,Medium,No,10.0,82.36
+2021-09-13,Chennai,22K,45017,Tanishq,Low,No,10.0,82.36
+2021-09-14,Kolkata,22K,44957,Malabar Gold,High,Yes,15.0,82.36
+2021-09-15,Delhi,24K,45076,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-09-16,Hyderabad,22K,45143,Kalyan Jewellers,High,No,10.0,82.36
+2021-09-17,Chennai,24K,45188,Kalyan Jewellers,Low,No,12.5,82.36
+2021-09-18,Mumbai,22K,45098,Tanishq,Low,No,12.5,82.36
+2021-09-19,Kolkata,24K,44986,PC Jeweller,High,No,15.0,82.36
+2021-09-20,Kolkata,24K,44960,PC Jeweller,Low,Yes,12.5,82.36
+2021-09-21,Mumbai,22K,44888,Tanishq,Low,No,12.5,82.36
+2021-09-22,Delhi,24K,44960,PC Jeweller,Low,Yes,12.5,82.36
+2021-09-23,Mumbai,22K,45041,Malabar Gold,High,No,10.0,82.36
+2021-09-24,Chennai,22K,44984,Kalyan Jewellers,High,No,10.0,82.36
+2021-09-25,Delhi,24K,45115,Tanishq,Medium,No,12.5,82.36
+2021-09-26,Delhi,24K,45160,Tanishq,Low,Yes,15.0,82.36
+2021-09-27,Hyderabad,24K,45297,PC Jeweller,Medium,Yes,15.0,82.36
+2021-09-28,Chennai,22K,45245,Kalyan Jewellers,High,No,12.5,82.36
+2021-09-29,Kolkata,24K,45139,Local Shop,Medium,No,15.0,82.36
+2021-09-30,Delhi,22K,45242,Malabar Gold,Medium,No,15.0,82.36
+2021-10-01,Delhi,22K,45206,PC Jeweller,Low,Yes,15.0,82.36
+2021-10-02,Hyderabad,22K,45175,Tanishq,Medium,Yes,15.0,82.36
+2021-10-03,Kolkata,22K,45215,Local Shop,Medium,No,10.0,82.36
+2021-10-04,Kolkata,22K,45212,Malabar Gold,Low,No,10.0,82.36
+2021-10-05,Kolkata,24K,45195,Malabar Gold,Medium,No,10.0,82.36
+2021-10-06,Mumbai,22K,45314,PC Jeweller,High,No,12.5,82.36
+2021-10-07,Mumbai,24K,45280,Kalyan Jewellers,Medium,No,12.5,82.36
+2021-10-08,Hyderabad,24K,45169,Malabar Gold,High,Yes,15.0,82.36
+2021-10-09,Chennai,22K,45076,Malabar Gold,Medium,No,10.0,82.36
+2021-10-10,Hyderabad,22K,45167,Malabar Gold,High,No,10.0,82.36
+2021-10-11,Delhi,22K,45315,Malabar Gold,Medium,No,10.0,82.36
+2021-10-12,Chennai,24K,45435,Tanishq,Low,No,12.5,82.36
+2021-10-13,Mumbai,22K,45445,PC Jeweller,Medium,Yes,12.5,82.36
+2021-10-14,Mumbai,22K,45427,PC Jeweller,High,Yes,10.0,82.36
+2021-10-15,Mumbai,22K,45352,Tanishq,Medium,Yes,10.0,82.36
+2021-10-16,Mumbai,24K,45451,Local Shop,High,Yes,10.0,82.36
+2021-10-17,Mumbai,22K,45450,Local Shop,High,Yes,12.5,82.36
+2021-10-18,Hyderabad,22K,45550,Tanishq,High,Yes,10.0,82.36
+2021-10-19,Delhi,22K,45667,PC Jeweller,Medium,No,12.5,82.36
+2021-10-20,Kolkata,22K,45626,Malabar Gold,Low,No,15.0,82.36
+2021-10-21,Chennai,22K,45549,Tanishq,High,Yes,10.0,82.36
+2021-10-22,Delhi,22K,45546,PC Jeweller,Medium,No,15.0,82.36
+2021-10-23,Chennai,24K,45435,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2021-10-24,Chennai,24K,45341,Local Shop,Medium,No,12.5,82.36
+2021-10-25,Hyderabad,24K,45363,PC Jeweller,Low,No,10.0,82.36
+2021-10-26,Kolkata,22K,45355,PC Jeweller,High,Yes,15.0,82.36
+2021-10-27,Kolkata,24K,45443,Kalyan Jewellers,High,No,12.5,82.36
+2021-10-28,Mumbai,22K,45422,Kalyan Jewellers,Low,No,12.5,82.36
+2021-10-29,Chennai,22K,45536,Local Shop,Medium,No,12.5,82.36
+2021-10-30,Mumbai,22K,45417,Tanishq,High,Yes,12.5,82.36
+2021-10-31,Hyderabad,22K,45541,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-11-01,Hyderabad,24K,45451,Local Shop,Medium,Yes,15.0,82.36
+2021-11-02,Hyderabad,22K,45420,Kalyan Jewellers,High,Yes,10.0,82.36
+2021-11-03,Mumbai,22K,45521,Malabar Gold,Medium,No,12.5,82.36
+2021-11-04,Chennai,22K,45483,Local Shop,High,No,15.0,82.36
+2021-11-05,Kolkata,22K,45426,PC Jeweller,Low,No,15.0,82.36
+2021-11-06,Mumbai,22K,45380,Malabar Gold,Low,No,15.0,82.36
+2021-11-07,Kolkata,22K,45480,Local Shop,Low,No,10.0,82.36
+2021-11-08,Kolkata,22K,45555,Tanishq,High,No,15.0,82.36
+2021-11-09,Kolkata,22K,45465,Local Shop,High,Yes,10.0,82.36
+2021-11-10,Mumbai,24K,45479,Kalyan Jewellers,High,No,12.5,82.36
+2021-11-11,Chennai,24K,45628,Tanishq,Low,Yes,15.0,82.36
+2021-11-12,Chennai,22K,45688,Tanishq,Medium,No,15.0,82.36
+2021-11-13,Chennai,22K,45724,Local Shop,High,Yes,12.5,82.36
+2021-11-14,Mumbai,22K,45730,Malabar Gold,High,No,10.0,82.36
+2021-11-15,Hyderabad,22K,45756,Malabar Gold,Low,Yes,10.0,82.36
+2021-11-16,Mumbai,24K,45903,Local Shop,Low,No,10.0,82.36
+2021-11-17,Kolkata,24K,45925,Local Shop,Low,No,12.5,82.36
+2021-11-18,Kolkata,22K,45958,Local Shop,High,Yes,15.0,82.36
+2021-11-19,Kolkata,22K,45890,Tanishq,Low,Yes,15.0,82.36
+2021-11-20,Kolkata,22K,45781,PC Jeweller,Medium,No,15.0,82.36
+2021-11-21,Delhi,22K,45741,Tanishq,Low,Yes,12.5,82.36
+2021-11-22,Chennai,24K,45701,Kalyan Jewellers,Low,Yes,12.5,82.36
+2021-11-23,Delhi,22K,45715,Malabar Gold,Medium,Yes,15.0,82.36
+2021-11-24,Chennai,24K,45699,Local Shop,Low,Yes,12.5,82.36
+2021-11-25,Hyderabad,22K,45725,Kalyan Jewellers,High,No,15.0,82.36
+2021-11-26,Delhi,22K,45837,Tanishq,Medium,No,10.0,82.36
+2021-11-27,Kolkata,24K,45843,Malabar Gold,Medium,No,12.5,82.36
+2021-11-28,Delhi,22K,45938,Tanishq,Low,No,12.5,82.36
+2021-11-29,Hyderabad,24K,45856,Local Shop,Low,No,10.0,82.36
+2021-11-30,Mumbai,24K,45910,PC Jeweller,High,No,12.5,82.36
+2021-12-01,Mumbai,22K,45793,Kalyan Jewellers,High,No,12.5,82.36
+2021-12-02,Mumbai,22K,45772,PC Jeweller,Medium,No,10.0,82.36
+2021-12-03,Chennai,22K,45826,Malabar Gold,Low,No,10.0,82.36
+2021-12-04,Hyderabad,22K,45724,Kalyan Jewellers,High,Yes,12.5,82.36
+2021-12-05,Chennai,22K,45835,Kalyan Jewellers,High,No,15.0,82.36
+2021-12-06,Kolkata,24K,45830,PC Jeweller,High,No,15.0,82.36
+2021-12-07,Delhi,24K,45832,PC Jeweller,Low,No,10.0,82.36
+2021-12-08,Delhi,22K,45933,Malabar Gold,High,No,12.5,82.36
+2021-12-09,Mumbai,22K,45945,Local Shop,Medium,No,15.0,82.36
+2021-12-10,Delhi,24K,45905,Local Shop,Low,No,10.0,82.36
+2021-12-11,Mumbai,22K,45946,Tanishq,High,No,15.0,82.36
+2021-12-12,Chennai,22K,46066,Malabar Gold,High,No,10.0,82.36
+2021-12-13,Delhi,24K,46092,Tanishq,Low,Yes,15.0,82.36
+2021-12-14,Kolkata,24K,46069,Malabar Gold,Medium,No,15.0,82.36
+2021-12-15,Mumbai,24K,46147,Tanishq,Medium,No,15.0,82.36
+2021-12-16,Delhi,22K,46254,Tanishq,Medium,No,15.0,82.36
+2021-12-17,Mumbai,22K,46364,PC Jeweller,Medium,Yes,15.0,82.36
+2021-12-18,Kolkata,24K,46386,Malabar Gold,High,No,12.5,82.36
+2021-12-19,Mumbai,24K,46320,Local Shop,High,No,15.0,82.36
+2021-12-20,Delhi,24K,46346,Local Shop,Low,No,15.0,82.36
+2021-12-21,Delhi,24K,46262,Malabar Gold,High,No,15.0,82.36
+2021-12-22,Mumbai,24K,46147,Tanishq,Medium,No,15.0,82.36
+2021-12-23,Chennai,22K,46050,PC Jeweller,Low,No,15.0,82.36
+2021-12-24,Delhi,22K,46109,PC Jeweller,Medium,No,10.0,82.36
+2021-12-25,Hyderabad,22K,46030,Kalyan Jewellers,Medium,No,10.0,82.36
+2021-12-26,Chennai,22K,46112,Local Shop,High,No,10.0,82.36
+2021-12-27,Delhi,22K,46030,Tanishq,High,No,15.0,82.36
+2021-12-28,Chennai,24K,46008,Malabar Gold,High,No,15.0,82.36
+2021-12-29,Hyderabad,22K,46124,PC Jeweller,High,No,15.0,82.36
+2021-12-30,Kolkata,24K,46189,Tanishq,High,No,15.0,82.36
+2021-12-31,Chennai,24K,46241,Local Shop,Low,No,10.0,82.36
+2022-01-01,Delhi,22K,46157,Malabar Gold,Medium,Yes,15.0,82.36
+2022-01-02,Mumbai,22K,46300,PC Jeweller,Medium,No,15.0,82.36
+2022-01-03,Kolkata,22K,46324,Kalyan Jewellers,Medium,No,10.0,82.36
+2022-01-04,Kolkata,22K,46218,Tanishq,High,No,15.0,82.36
+2022-01-05,Delhi,22K,46300,PC Jeweller,High,Yes,12.5,82.36
+2022-01-06,Chennai,22K,46239,Tanishq,Low,No,12.5,82.36
+2022-01-07,Hyderabad,24K,46345,Local Shop,Low,Yes,15.0,82.36
+2022-01-08,Kolkata,22K,46367,PC Jeweller,Medium,No,12.5,82.36
+2022-01-09,Delhi,22K,46371,Kalyan Jewellers,Low,Yes,12.5,82.36
+2022-01-10,Delhi,22K,46406,PC Jeweller,High,No,15.0,82.36
+2022-01-11,Mumbai,24K,46334,Local Shop,High,No,10.0,82.36
+2022-01-12,Mumbai,24K,46328,Tanishq,High,Yes,10.0,82.36
+2022-01-13,Mumbai,24K,46287,PC Jeweller,Medium,No,10.0,82.36
+2022-01-14,Mumbai,22K,46194,Tanishq,Medium,No,12.5,82.36
+2022-01-15,Delhi,22K,46341,Tanishq,Medium,No,10.0,82.36
+2022-01-16,Mumbai,24K,46245,Malabar Gold,Medium,No,10.0,82.36
+2022-01-17,Delhi,24K,46220,Malabar Gold,Medium,No,12.5,82.36
+2022-01-18,Hyderabad,22K,46245,PC Jeweller,High,No,10.0,82.36
+2022-01-19,Mumbai,24K,46177,Tanishq,Low,No,15.0,82.36
+2022-01-20,Hyderabad,24K,46241,Kalyan Jewellers,Low,Yes,15.0,82.36
+2022-01-21,Delhi,22K,46390,Malabar Gold,Low,No,10.0,82.36
+2022-01-22,Kolkata,22K,46457,Tanishq,Low,No,10.0,82.36
+2022-01-23,Kolkata,24K,46572,Local Shop,Low,Yes,12.5,82.36
+2022-01-24,Kolkata,22K,46497,Malabar Gold,Low,Yes,10.0,82.36
+2022-01-25,Kolkata,22K,46432,Kalyan Jewellers,Low,No,15.0,82.36
+2022-01-26,Chennai,22K,46445,Kalyan Jewellers,High,No,12.5,82.36
+2022-01-27,Delhi,22K,46423,PC Jeweller,Medium,Yes,15.0,82.36
+2022-01-28,Chennai,24K,46329,PC Jeweller,Low,No,12.5,82.36
+2022-01-29,Delhi,24K,46403,Malabar Gold,High,No,15.0,82.36
+2022-01-30,Mumbai,22K,46335,Local Shop,Medium,No,10.0,82.36
+2022-01-31,Kolkata,22K,46266,Local Shop,Medium,No,15.0,82.36
+2022-02-01,Hyderabad,24K,46317,Local Shop,Low,No,10.0,82.36
+2022-02-02,Chennai,22K,46399,Local Shop,Low,No,15.0,82.36
+2022-02-03,Mumbai,24K,46546,Tanishq,High,No,12.5,82.36
+2022-02-04,Hyderabad,22K,46473,Local Shop,Medium,Yes,12.5,82.36
+2022-02-05,Delhi,24K,46431,Kalyan Jewellers,Low,No,15.0,82.36
+2022-02-06,Delhi,24K,46365,Kalyan Jewellers,Medium,Yes,10.0,82.36
+2022-02-07,Chennai,22K,46338,Tanishq,Medium,No,15.0,82.36
+2022-02-08,Chennai,24K,46438,Kalyan Jewellers,High,No,10.0,82.36
+2022-02-09,Hyderabad,22K,46490,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2022-02-10,Mumbai,24K,46574,Local Shop,Medium,No,12.5,82.36
+2022-02-11,Kolkata,22K,46636,Kalyan Jewellers,Low,Yes,12.5,82.36
+2022-02-12,Kolkata,22K,46542,Kalyan Jewellers,High,No,15.0,82.36
+2022-02-13,Kolkata,22K,46524,Tanishq,High,No,10.0,82.36
+2022-02-14,Chennai,22K,46639,PC Jeweller,High,No,12.5,82.36
+2022-02-15,Hyderabad,22K,46524,Tanishq,Medium,No,12.5,82.36
+2022-02-16,Delhi,24K,46485,Kalyan Jewellers,High,Yes,10.0,82.36
+2022-02-17,Chennai,24K,46613,Kalyan Jewellers,High,No,10.0,82.36
+2022-02-18,Chennai,24K,46678,Kalyan Jewellers,High,No,10.0,82.36
+2022-02-19,Kolkata,24K,46793,Malabar Gold,Low,Yes,12.5,82.36
+2022-02-20,Kolkata,22K,46736,Tanishq,High,No,10.0,82.36
+2022-02-21,Delhi,22K,46642,PC Jeweller,High,Yes,12.5,82.36
+2022-02-22,Mumbai,22K,46579,Tanishq,Medium,No,10.0,82.36
+2022-02-23,Kolkata,24K,46495,Malabar Gold,Low,No,10.0,82.36
+2022-02-24,Chennai,24K,46494,Malabar Gold,High,No,15.0,82.36
+2022-02-25,Chennai,22K,46437,Kalyan Jewellers,Low,No,15.0,82.36
+2022-02-26,Kolkata,24K,46324,Local Shop,Low,No,10.0,82.36
+2022-02-27,Hyderabad,22K,46293,Malabar Gold,Medium,No,12.5,82.36
+2022-02-28,Kolkata,22K,46377,PC Jeweller,Medium,No,15.0,82.36
+2022-03-01,Mumbai,24K,46321,Kalyan Jewellers,Low,Yes,15.0,82.36
+2022-03-02,Kolkata,24K,46382,Tanishq,High,No,12.5,82.36
+2022-03-03,Chennai,24K,46512,Kalyan Jewellers,Low,No,15.0,82.36
+2022-03-04,Mumbai,22K,46500,Malabar Gold,High,Yes,12.5,82.36
+2022-03-05,Hyderabad,22K,46587,Malabar Gold,Medium,No,10.0,82.36
+2022-03-06,Chennai,22K,46697,Local Shop,High,Yes,15.0,82.36
+2022-03-07,Kolkata,24K,46818,Tanishq,Medium,Yes,15.0,82.36
+2022-03-08,Kolkata,22K,46848,Local Shop,Medium,No,12.5,82.36
+2022-03-09,Chennai,22K,46986,PC Jeweller,High,Yes,15.0,82.36
+2022-03-10,Mumbai,22K,47120,Malabar Gold,Low,No,12.5,82.36
+2022-03-11,Mumbai,22K,47043,Kalyan Jewellers,Low,No,10.0,82.36
+2022-03-12,Hyderabad,24K,46937,Local Shop,Low,No,12.5,82.36
+2022-03-13,Hyderabad,22K,46937,PC Jeweller,Medium,No,15.0,82.36
+2022-03-14,Mumbai,22K,47078,Tanishq,Medium,Yes,12.5,82.36
+2022-03-15,Delhi,22K,46978,Local Shop,High,Yes,12.5,82.36
+2022-03-16,Delhi,22K,47035,Tanishq,High,No,12.5,82.36
+2022-03-17,Mumbai,22K,46935,Malabar Gold,Medium,No,12.5,82.36
+2022-03-18,Chennai,22K,46981,Tanishq,Medium,No,10.0,82.36
+2022-03-19,Delhi,22K,46875,Local Shop,High,No,15.0,82.36
+2022-03-20,Mumbai,24K,46775,Malabar Gold,Low,Yes,12.5,82.36
+2022-03-21,Chennai,22K,46823,Local Shop,High,No,12.5,82.36
+2022-03-22,Mumbai,24K,46921,Malabar Gold,Medium,No,15.0,82.36
+2022-03-23,Kolkata,22K,47021,Local Shop,Low,No,15.0,82.36
+2022-03-24,Delhi,24K,47060,Malabar Gold,Medium,No,12.5,82.36
+2022-03-25,Mumbai,22K,47048,Tanishq,Low,No,12.5,82.36
+2022-03-26,Delhi,22K,47076,Local Shop,High,No,10.0,82.36
+2022-03-27,Kolkata,22K,47054,Local Shop,Medium,No,10.0,82.36
+2022-03-28,Hyderabad,24K,47036,Malabar Gold,Low,Yes,12.5,82.36
+2022-03-29,Hyderabad,24K,47185,Local Shop,Medium,Yes,10.0,82.36
+2022-03-30,Chennai,22K,47141,Tanishq,Low,No,12.5,82.36
+2022-03-31,Hyderabad,22K,47182,Malabar Gold,Low,Yes,10.0,82.36
+2022-04-01,Mumbai,24K,47080,Malabar Gold,Medium,No,12.5,82.36
+2022-04-02,Delhi,22K,47047,Tanishq,Medium,Yes,10.0,82.36
+2022-04-03,Chennai,22K,47134,Local Shop,Medium,No,12.5,82.36
+2022-04-04,Kolkata,22K,47131,Malabar Gold,Medium,No,10.0,82.36
+2022-04-05,Kolkata,24K,47229,Kalyan Jewellers,Low,Yes,10.0,82.36
+2022-04-06,Delhi,24K,47178,Tanishq,Low,Yes,10.0,82.36
+2022-04-07,Mumbai,24K,47180,Tanishq,Low,No,12.5,82.36
+2022-04-08,Mumbai,24K,47275,Local Shop,Low,No,10.0,82.36
+2022-04-09,Delhi,24K,47296,Tanishq,High,No,12.5,82.36
+2022-04-10,Hyderabad,22K,47439,Tanishq,Medium,Yes,15.0,82.36
+2022-04-11,Kolkata,24K,47569,Kalyan Jewellers,High,No,15.0,82.36
+2022-04-12,Hyderabad,22K,47505,Tanishq,Medium,No,10.0,82.36
+2022-04-13,Chennai,24K,47428,Kalyan Jewellers,Medium,Yes,15.0,82.36
+2022-04-14,Delhi,24K,47525,Malabar Gold,Medium,No,12.5,82.36
